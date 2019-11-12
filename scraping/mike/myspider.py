@@ -4,6 +4,15 @@ class WikipediaSpider(scrapy.Spider):
     name = "wikipedia"
     start_urls = [
         'https://en.wikipedia.org/wiki/LinkedIn',
+        # Competitors
+        'https://en.wikipedia.org/wiki/Viadeo',
+        'https://en.wikipedia.org/wiki/XING',
+        'https://en.wikipedia.org/wiki/Glassdoor',
+        # Acquisitions
+        'https://en.wikipedia.org/wiki/Drawbridge_(company)',
+        'https://en.wikipedia.org/wiki/SlideShare',
+        'https://en.wikipedia.org/wiki/Bright.com',
+        'https://en.wikipedia.org/wiki/LinkedIn_Pulse',
     ]
     
     custom_settings = {
@@ -15,7 +24,7 @@ class WikipediaSpider(scrapy.Spider):
         title = response.css('h1::text').get()
         table_rows = response.xpath('//*[@id="mw-content-text"]/div/table[2]/*/tr')
         table_data = [
-            (''.join(tr.xpath('th//text()').getall()), ''.join(tr.xpath('td//text()').getall()))
+            (tr.xpath('th//text()').getall(), tr.xpath('td//text()').getall())
             for tr in table_rows]
         self.log('Number of rows: %s ' % len(table_rows.getall()))
         self.log('Scraped  %s' % response.url)
@@ -27,7 +36,7 @@ class WikipediaSpider(scrapy.Spider):
             yield response.follow(link)
         
         yield {
-            # 'html': response.body.decode(),
+            'html': response.body.decode(),
             'table_data': table_data,
             'title': title,
             }
