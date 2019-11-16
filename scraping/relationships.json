@@ -1,0 +1,42 @@
+{
+    "Created by": [
+        "Created by",
+        "incoming"
+    ],
+    "Developer(s)": [
+        "Developed by",
+        "incoming"
+    ],
+    "Founder": [
+        "Founded",
+        "incoming"
+    ],
+    "Founder(s)": [
+        "Founded",
+        "incoming"
+    ],
+    "Key people": [
+        "Is key to",
+        "incoming"
+    ],
+    "Original author(s)": [
+        "Authored",
+        "incoming"
+    ],
+    "Owner": [
+        "Owns",
+        "incoming"
+    ],
+    "Parent": [
+        "Owns",
+        "incoming"
+    ],
+    "Products": [
+        "Produces",
+        "outgoing"
+    ],
+    "Subsidiaries": [
+        "Owns",
+        "outgoing"
+    ]
+}
