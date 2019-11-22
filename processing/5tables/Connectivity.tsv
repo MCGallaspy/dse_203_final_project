@@ -1,0 +1,175 @@
+EdgeID	FromNode	ToNode
+5	Adam Pisoni	Yammer
+6	Adam Somlai-Fischer	Prezi
+7	Adeyemi Ajao	Tuenti
+9	Allen Blue	LinkedIn
+13	Apple Inc.	Apple Mail
+17	Barry Diller	Expedia Group
+18	Barry Diller	Expedia Group
+19	Batara Eto	Mixi
+22	Bernd Schlobohm	QSC AG
+25	Brian Protiva	ADVA Optical Networking
+28	CEO	ADVA Optical Networking
+29	CEO	Bechtle
+30	CEO	Bright.com
+31	CEO	Expedia Group
+32	CEO	Facebook
+33	CEO	Foursquare City Guide
+34	CEO	IdeaPlane
+35	CEO	Jenoptik
+36	CEO	Pinterest
+37	CEO	QSC AG
+38	CFO	ADVA Optical Networking
+39	CFO	Facebook
+41	CTO	ADVA Optical Networking
+42	CTO	Facebook
+43	CTO	IdeaPlane
+45	Chairman	ADVA Optical Networking
+46	Chairman	BB Biotech
+47	Chairman	Expedia Group
+48	Chairman	Facebook
+49	Chairman	Jenoptik
+50	Chairman	QSC AG
+51	Christina Hall	LinkedIn
+53	ClearSlide	SlideRocket
+54	Connectix	DoubleTalk
+57	Connectix	Optima
+58	Connectix	QuickCam
+59	Connectix	RAM Doubler
+61	Connectix	Virtual
+62	Connectix	Virtual Game Station
+63	Connectix	Virtual PC
+67	David O. Sacks	Yammer
+68	David Wehner	Facebook
+69	Dennis Crowley	Foursquare City Guide
+70	Dennis Crowley	Foursquare City Guide
+71	Dominique Leroy	Proximus Group
+73	Dow Jones	All Things Digital
+79	Eric Ly	LinkedIn
+80	Eric Traut	Connectix
+81	Erich Hunziker	BB Biotech
+87	Expedia Group	Classic Vacations
+89	Expedia Group	Egencia
+90	Expedia Group	Expedia Affiliate Network
+94	Expedia Group	Expedia.com
+95	Expedia Group	HomeAway
+96	Expedia Group	Hotels.com
+97	Expedia Group	Hotwire Group
+98	Expedia Group	Orbitz
+99	Expedia Group	Travelocity
+100	Expedia Group	trivago
+103	Facebook	Instagram
+104	Facebook	Instagram
+105	Facebook	Messenger
+106	Facebook	Oculus
+107	Facebook	Portal
+109	Facebook	WhatsApp
+110	Facebook, Inc.	Facebook
+112	Florenz Sartorius	Sartorius AG
+113	Floris Rost van Tonningen	Hyves
+115	Foursquare Labs	Foursquare City Guide
+119	Gerry Mackay	Sartorius AG
+120	Google	AdMob
+121	Google	Google AdSense
+122	Google	Google Play
+123	Google	Google Slides
+124	Google	Orkut
+126	Herdifier Oy	IRC-Galleria
+132	IBM	IBM Connections
+136	Internet Archive	Wayback Machine
+140	Jay Adelson	Digg
+141	Jean-Luc Vaillant	LinkedIn
+143	Joachim Kreuzburg	Sartorius AG
+144	Joaquín Ayuso de Pául	Tuenti
+148	Jon Garber	Connectix
+149	Jon Reynolds	SwiftKey
+151	Kara Swisher	All Things Digital
+153	Kenji Kasahara	Mixi
+154	Kenji Kasahara	Mixi
+155	Kenny Bentley	Tuenti
+156	Kevin Rose	Digg
+157	Kevin Systrom	Instagram
+158	Koen Kam	Hyves
+159	Konstantin Guericke	LinkedIn
+160	LinkedIn	Connectifier
+162	LinkedIn	SlideShare
+166	Mail.ru Group	Odnoklassniki
+168	Mark Okerstrom	Expedia Group
+170	Mashable	CineFix
+171	Mashable	Mashable Studios
+175	Microsoft	GreenButton
+177	Microsoft	Microsoft Office
+178	Microsoft	Microsoft PowerPoint
+180	Microsoft	OneDrive
+182	Microsoft	Simplygon
+183	Microsoft	SwiftKey
+184	Microsoft	Xbox
+186	Microsoft Corporation	LinkedIn
+187	Microsoft Corporation	Microsoft Outlook
+188	Microsoft Corporation	Yammer
+190	Mike Krieger	Instagram
+191	Mike Schroepfer	Facebook
+192	Naveen Selvadurai	Foursquare City Guide
+193	Naveen Selvadurai	Foursquare City Guide
+195	Nikos Theodosopoulos	ADVA Optical Networking
+198	Nobuhiro Seki	Six Apart
+199	Omar Hamoui	AdMob
+203	Orkut Büyükkökten	Orkut
+207	Pete Cashmore	Mashable
+208	Pete Cashmore	Mashable
+209	Peter Arvai	Prezi
+210	Peter Halacsy	Prezi
+211	Pinterest	Jelly Industries
+213	Prezi Inc	Prezi
+214	Proximus Group	BICS
+217	Proximus Group	Scarlet
+218	Proximus Group	Skynet
+219	Proximus Group	Tango
+225	Qurate Retail Group	Expedia Group
+226	Rainer Lehmann	Sartorius AG
+227	Raymond Spanjar	Hyves
+228	Reid Hoffman	LinkedIn
+229	René Fáber	Sartorius AG
+230	Rich Barton	Expedia Group
+231	Rich Martell	FitFinder
+232	Rick Bowman	Shiftgig
+233	Roy McDonald	Connectix
+235	Scott Houston	GreenButton
+236	Shannon Brayton	LinkedIn
+237	Sheryl Sandberg	Facebook
+240	Sina Corp	Sina Weibo
+241	Six Apart	Movable Type
+242	Six Apart	TypePad
+244	SoftMaker	SoftMaker Presentations
+245	Sridhar Vembu	Zoho Corporation
+246	Stefaan De Clerck	Proximus Group
+249	Steve Sordello	LinkedIn
+250	Telefónica	Tuenti
+252	Thierry Bernard	Qiagen
+253	Thomas Olemotz	Bechtle
+254	Tom More	Promo.com
+256	Tomi Lintelä	IRC-Galleria
+262	Walt Mossberg	All Things Digital
+263	Wang Xing	Renren
+264	Weibo Corporation	Sina Weibo
+265	World Wide Web Consortium	ActivityPub
+266	Xanga.com, Inc.	Xanga
+267	Zaryn Dentzel	Tuenti
+268	Ziff Davis	Mashable
+273	supervisory board	ADVA Optical Networking
+274	supervisory board	Jenoptik
+275	supervisory board	QSC AG
+276	541511	LinkedIn
+278	LinkedIn	Reid Hoffman
+279	LinkedIn	Konstantin Guericke
+280	LinkedIn	SlideShare
+282	518210	Lynda.com
+284	Microsoft	Lynda.com
+285	LinkedIn	Lynda.com
+293	Microsoft Corporation	SlideShare
+294	Rashmi Sinha	SlideShare
+295	LinkedIn	SlideShare
+297	LinkedIn	Allen Blue
+299	Microsoft Corporation	LinkedIn
+300	561311	Glassdoor
+305	LinkedIn	Connectifier

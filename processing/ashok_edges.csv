@@ -1,0 +1,31 @@
+﻿id,begin,end,label
+45,LinkedIn,Connectifier,Owns
+19,LinkedIn,SlideShare,Owns
+9,LinkedIn,Lynda.com,Owns
+5,LinkedIn,LearningConnectifier,Owns
+4,LinkedIn,SlideShare,Produces
+3,LinkedIn,Konstantin Guericke,Founded
+21,LinkedIn,Allen Blue,Founded
+2,LinkedIn,Reid Hoffman,Founded
+0,541511,LinkedIn,NAICSCode
+1,ACQ2,LinkedIn,Acquired
+6,518210,Lynda.com,NAICSCode
+7,"Eric Robison, CEO",Lynda.com,Iskeyto
+8,Microsoft,Lynda.com,Owns
+10,541810,ZipRecruiter Inc,NAICSCode
+11,Ian SiegelJoe EdmondsWard PoulosWill Redd,ZipRecruiter Inc,Founded
+12,Ian Siegel (CEO),ZipRecruiter Inc,Iskeyto
+43,NoNAICS,Connectifier,NAICSCode
+16,NoNAICS,SlideShare,NAICSCode
+13,NoNAICS,Indeed.com,NAICSCode
+14,Recruit,Indeed.com,Owns
+15,Paul Forster Rony Kahan,Indeed.com,Founded
+17,Microsoft Corporation,SlideShare,Owns
+18,Rashmi Sinha,SlideShare,Founded
+40,561311,Glassdoor,NAICSCode
+41,"Robert Hohman, Rich Barton, Tim Besse",Glassdoor,Founded
+20,ACQ1,LinkedIn,Acquired
+22,"Shannon Brayton (CMO) Christina Hall (CPO, SVP) Steve Sordello (CFO, SVP)",LinkedIn,Iskeyto
+23,Microsoft Corporation,LinkedIn,Owns
+42,"Robert Hohman, Christian Sutherland-Wong, Ryan Aylward",Glassdoor,Iskeyto
+44,John JersinBenjamin McCann,Connectifier,Founded

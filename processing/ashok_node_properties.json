@@ -1,0 +1,404 @@
+﻿[
+  {
+    "a": {
+      "identity": 0,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "Currentstatus": "Active",
+        "Founded": "December 28, 2002; 16 years ago (2002-12-28)Mountain View, California, U.S.",
+        "Headquarters": "Sunnyvale, California, U.S.",
+        "Alexarank": "58 (November 2019[update])[1]",
+        "Employees": "15,000 (2019)",
+        "Website": "www.linkedin.com",
+        "Launched": "May 5, 2003; 16 years ago (2003-05-05)",
+        "Industry": "Internet",
+        "Areaserved": "Worldwide",
+        "name": "LinkedIn",
+        "Typeofbusiness": "Subsidiary",
+        "Advertising": "Google, AdSense",
+        "Availablein": "Multilingual (24)"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 1,
+      "labels": [
+        "NAICS"
+      ],
+      "properties": {
+        "name": "541511"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 2,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "name": "ACQ2"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Reid Hoffman"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Konstantin Guericke"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 5,
+      "labels": [
+        "Product"
+      ],
+      "properties": {
+        "name": "SlideShare"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 6,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "name": "LearningConnectifier"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 7,
+      "labels": [
+        "NAICS"
+      ],
+      "properties": {
+        "name": "518210"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 8,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Eric Robison, CEO"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 9,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Microsoft"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 10,
+      "labels": [
+        "NAICS"
+      ],
+      "properties": {
+        "name": "541810"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 11,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Ian SiegelJoe EdmondsWard PoulosWill Redd"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 12,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Ian Siegel (CEO)"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 13,
+      "labels": [
+        "NAICS"
+      ],
+      "properties": {
+        "name": "NoNAICS"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 14,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Recruit"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 15,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Paul Forster Rony Kahan"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 16,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Microsoft Corporation"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 17,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Rashmi Sinha"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 18,
+      "labels": [
+        "NAICS"
+      ],
+      "properties": {
+        "name": "561311"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 19,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Robert Hohman, Rich Barton, Tim Besse"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 20,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "Industry": "educational technology",
+        "Type": "Subsidiary",
+        "Founded": "1995 (1995)",
+        "Numberofemployees": "500+ (2014)",
+        "Headquarters": "Carpinteria , United States of America",
+        "name": "Lynda.com",
+        "Website": "www.linkedin.com/learning/",
+        "Revenue": "US$100 million (2013)"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 21,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "Industry": "Employment websites",
+        "name": "ZipRecruiter Inc",
+        "Employees": "1,000[1]",
+        "Website": "ziprecruiter.com",
+        "Founded": "2010",
+        "Headquarters": "Santa Monica, California"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 22,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "name": "Indeed.com",
+        "Alexarank": "167 (June 2018[update])[1]",
+        "Website": "indeed.com",
+        "Currentstatus": "Active",
+        "Founded": "November 2004; 15 years ago (2004-11)",
+        "Headquarters": "Austin, Texas, U.S.Stamford, Connecticut, U.S."
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 23,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "Industry": "Internet",
+        "Currentstatus": "Active",
+        "Areaserved": "Worldwide",
+        "name": "SlideShare",
+        "Website": "www.slideshare.net",
+        "Alexarank": "165 (As of 19 March 2019[update])[1]",
+        "Launched": "4 October 2006; 13 years ago (2006-10-04)",
+        "Availablein": "Multilingual(5)"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 24,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "Industry": "Internet",
+        "Currentstatus": "Active",
+        "Founded": "June 2007",
+        "Headquarters": "Mill Valley, California, U.S.",
+        "name": "Glassdoor",
+        "Website": "www.glassdoor.com",
+        "Employees": "800",
+        "Alexarank": "397 (October 2017[update])[1]",
+        "Typeofbusiness": "Private",
+        "Availablein": "Multilingual"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 25,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "Industry": "Internet, Recruitment",
+        "name": "Connectifier",
+        "Website": "www.connectifier.com",
+        "Type": "Subsidiary",
+        "Founded": "California, United States (December 2011 (2011-12))",
+        "Headquarters": "1000 W Maude Ave, Sunnyvale, California, United States"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 26,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "name": "ACQ1"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 27,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Allen Blue"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 28,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Shannon Brayton (CMO) Christina Hall (CPO, SVP) Steve Sordello (CFO, SVP)"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 29,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "name": "Microsoft Corporation"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 40,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Robert Hohman, Christian Sutherland-Wong, Ryan Aylward"
+      }
+    }
+  },
+  {
+    "a": {
+      "identity": 41,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "John JersinBenjamin McCann"
+      }
+    }
+  }
+]

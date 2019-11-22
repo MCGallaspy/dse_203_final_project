@@ -1,0 +1,316 @@
+﻿[
+  {
+    "id": 23,
+    "props": {
+      "identity": 23,
+      "start": 29,
+      "end": 0,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 22,
+    "props": {
+      "identity": 22,
+      "start": 28,
+      "end": 0,
+      "type": "Iskeyto",
+      "properties": {}
+    }
+  },
+  {
+    "id": 1,
+    "props": {
+      "identity": 1,
+      "start": 2,
+      "end": 0,
+      "type": "Acquired",
+      "properties": {
+        "date": "11 Jan 1811",
+        "amount": "$23M"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "props": {
+      "identity": 20,
+      "start": 26,
+      "end": 0,
+      "type": "Acquired",
+      "properties": {
+        "date": "11-11-1999",
+        "amount": "$11M"
+      }
+    }
+  },
+  {
+    "id": 0,
+    "props": {
+      "identity": 0,
+      "start": 1,
+      "end": 0,
+      "type": "NAICSCode",
+      "properties": {}
+    }
+  },
+  {
+    "id": 2,
+    "props": {
+      "identity": 2,
+      "start": 0,
+      "end": 3,
+      "type": "Founded",
+      "properties": {
+        "Role": "Chief Scientist"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "props": {
+      "identity": 3,
+      "start": 0,
+      "end": 4,
+      "type": "Founded",
+      "properties": {
+        "Role": "Sales",
+        "Age": "67Yrs"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "props": {
+      "identity": 4,
+      "start": 0,
+      "end": 5,
+      "type": "Produces",
+      "properties": {}
+    }
+  },
+  {
+    "id": 5,
+    "props": {
+      "identity": 5,
+      "start": 0,
+      "end": 6,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 9,
+    "props": {
+      "identity": 9,
+      "start": 0,
+      "end": 20,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 8,
+    "props": {
+      "identity": 8,
+      "start": 9,
+      "end": 20,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 7,
+    "props": {
+      "identity": 7,
+      "start": 8,
+      "end": 20,
+      "type": "Iskeyto",
+      "properties": {}
+    }
+  },
+  {
+    "id": 6,
+    "props": {
+      "identity": 6,
+      "start": 7,
+      "end": 20,
+      "type": "NAICSCode",
+      "properties": {}
+    }
+  },
+  {
+    "id": 12,
+    "props": {
+      "identity": 12,
+      "start": 12,
+      "end": 21,
+      "type": "Iskeyto",
+      "properties": {}
+    }
+  },
+  {
+    "id": 11,
+    "props": {
+      "identity": 11,
+      "start": 11,
+      "end": 21,
+      "type": "Founded",
+      "properties": {}
+    }
+  },
+  {
+    "id": 10,
+    "props": {
+      "identity": 10,
+      "start": 10,
+      "end": 21,
+      "type": "NAICSCode",
+      "properties": {}
+    }
+  },
+  {
+    "id": 15,
+    "props": {
+      "identity": 15,
+      "start": 15,
+      "end": 22,
+      "type": "Founded",
+      "properties": {}
+    }
+  },
+  {
+    "id": 14,
+    "props": {
+      "identity": 14,
+      "start": 14,
+      "end": 22,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 13,
+    "props": {
+      "identity": 13,
+      "start": 13,
+      "end": 22,
+      "type": "NAICSCode",
+      "properties": {}
+    }
+  },
+  {
+    "id": 19,
+    "props": {
+      "identity": 19,
+      "start": 0,
+      "end": 23,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 18,
+    "props": {
+      "identity": 18,
+      "start": 17,
+      "end": 23,
+      "type": "Founded",
+      "properties": {}
+    }
+  },
+  {
+    "id": 17,
+    "props": {
+      "identity": 17,
+      "start": 16,
+      "end": 23,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 16,
+    "props": {
+      "identity": 16,
+      "start": 13,
+      "end": 23,
+      "type": "NAICSCode",
+      "properties": {}
+    }
+  },
+  {
+    "id": 42,
+    "props": {
+      "identity": 42,
+      "start": 40,
+      "end": 24,
+      "type": "Iskeyto",
+      "properties": {}
+    }
+  },
+  {
+    "id": 41,
+    "props": {
+      "identity": 41,
+      "start": 19,
+      "end": 24,
+      "type": "Founded",
+      "properties": {}
+    }
+  },
+  {
+    "id": 40,
+    "props": {
+      "identity": 40,
+      "start": 18,
+      "end": 24,
+      "type": "NAICSCode",
+      "properties": {}
+    }
+  },
+  {
+    "id": 45,
+    "props": {
+      "identity": 45,
+      "start": 0,
+      "end": 25,
+      "type": "Owns",
+      "properties": {}
+    }
+  },
+  {
+    "id": 44,
+    "props": {
+      "identity": 44,
+      "start": 41,
+      "end": 25,
+      "type": "Founded",
+      "properties": {}
+    }
+  },
+  {
+    "id": 43,
+    "props": {
+      "identity": 43,
+      "start": 13,
+      "end": 25,
+      "type": "NAICSCode",
+      "properties": {}
+    }
+  },
+  {
+    "id": 21,
+    "props": {
+      "identity": 21,
+      "start": 0,
+      "end": 27,
+      "type": "Founded",
+      "properties": {
+        "Role": "WEB",
+        "Since": "11-11-1999"
+      }
+    }
+  }
+]
