@@ -1,0 +1,57 @@
+##1 Issues in NodeLabels.tsv
+Special characters-
+
+py2neo.database.ClientError: SyntaxError: Invalid input '"': expected whitespace, '.', node labels, '[', "=~", IN, STARTS, ENDS, CONTAINS, IS, '^', '*', '/', '%', '+', '-', '=', '~', "<>", "!=", '<', '>', "<=", ">=", AND, XOR, OR, ',' or '}' (line 1, column 43 (offset: 42))
+"MERGE (nodeLbl:ORG {name: "Microsoft Corp""})"
+
+py2neo.database.ClientError: SyntaxError: Invalid input '{': expected whitespace, comment or a label name (line 1, column 17 (offset: 16))
+"MERGE (nodeLbl: {name: "CEO"})"
+
+Narendra Modi"
+...
+
+"MERGE (nodeLbl: {name: "Chairman"})"
+"MERGE (nodeLbl:ORG {name: "The New York Times Company""})"
+"MERGE (nodeLbl:ORG {name: "The New York Times""})"
+
+I have handle special char thru code
+
+##2 (NodeLabels.tsv) LinkedIn as ORG and also as PERSON, similar for lynada.com has labeled as ORG and also as PERSON, same for others
+
+## Issue in Connectivity.tsv
+LinkedIn, Allen Blue both are in both FromNode and ToNode, similar I saw with people associated with LinkedIn. Same are present for other nodes like Instagram, Lynda.com etc.
+This causing wrong (both directional) relational directions.
+eg:-
+278	LinkedIn	Reid Hoffman	Founded
+279	LinkedIn	Konstantin Guericke	Founded
+280	LinkedIn	SlideShare	Produces
+..
+297	LinkedIn	Allen Blue	Founded
+
+#####  Findings in Sathish's file
+# Added header in the tsv files. Rename files same as Mike's file. Just rename with *_U.tsv to mark as unstructured.
+# EdgeLabel is added to the connectivity files
+
+# empty lines after every record. Code has taken care that.
+# Duplicate entries like LinkedIn and Bright.com (EdgeID 889, 1409)
+# Nodes names are have leading space so could note created compete , invested etc relationship. Taken care thru code.
+# Some space issues with label names...Taken care in code.
+# Relation present as acquire and acquiring (lematization)
+
+CLEANING UP
+1. we have total 40631 nodes with orphans
+===>Deleting orphan now we have 682
+##DELETE ORPHAN NODE
+MATCH (n) WHERE NOT (n)--() DELETE n
+
+
+1.Connectivity_Edge.tsv
+LinkedIn, Microsoft, Lynda.com, SlideShare, Connectifier, glassdoor, Instagram, Xing (no indeed or ziprecruiter)
+
+
+2. Clean file NodeLabels.tsv
+linkedin,Slideshare.lynda.com,CardMunch,bizo, Drawbridge, pulse, Connectifier
+
+3. EdgeProperty_Merged.tsv...7 such entries with parenthesis
+$0.6 million[44]
+$3.9 million[citation needed]
