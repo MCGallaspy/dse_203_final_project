@@ -254,7 +254,6 @@ Oxford University Press	ORG
 Mark	PERSON
 Journal	ORG
 Silicon Valley	LOC
-Microsoft Corp	ORG
 LCCN	PERSON
 Natter Social Network	ORG
 Andrew	PERSON
@@ -657,7 +656,6 @@ PeerTube	PRODUCT
 Minecraft	ORG
 Malta	GPE
 House	ORG
-LinkedIn	PERSON
 Tinder	ORG
 Warren	PERSON
 50%	PERCENT
@@ -843,7 +841,6 @@ Qatar	GPE
 Uzbekistan	GPE
 Zuckerberg	PERSON
 the United Nations	ORG
-SlideShare	PERSON
 GPL	ORG
 Ron	PERSON
 Protestant	NORP
@@ -1854,7 +1851,6 @@ The United Kingdom	GPE
 New Orleans	GPE
 Gmail	PERSON
 Owen	PERSON
-Lynda	PERSON
 Pixel	PRODUCT
 17%	PERCENT
 Cuban	NORP
@@ -1957,7 +1953,6 @@ Ottoman	NORP
 Media	ORG
 Schuster	PERSON
 $1.5 billion	MONEY
-XING	PERSON
 iPad Mini	ORG
 GreenButton	ORG
 Marshall	PERSON
@@ -2138,7 +2133,6 @@ Anne	PERSON
 Timeline	PERSON
 128 GB	QUANTITY
 Meyer	PERSON
-Linkedin	ORG
 Philips	ORG
 Google	NORP
 App Store	FAC
@@ -2226,7 +2220,6 @@ Cooper	PERSON
 Bernie Sanders	PERSON
 Alyson	PERSON
 Madagascar	GPE
-LinkedIn .	ORG
 Parisians	NORP
 Trident	PRODUCT
 Hill	PERSON
@@ -2410,7 +2403,6 @@ Claris	ORG
 NACA	ORG
 Angela Merkel	PERSON
 74%	PERCENT
-Xing	PERSON
 Central Park	LOC
 Hanoi	GPE
 Włodzimierz	GPE
@@ -2748,7 +2740,6 @@ Persians	NORP
 San Francisco International Airport	FAC
 Abraham Lincoln	PERSON
 Shiftgig	ORG
-Microsoft	PRODUCT
 House of Commons	ORG
 Vatican City	GPE
 Kuomintang	ORG
@@ -3299,7 +3290,6 @@ Armenians	NORP
 Analytica	PERSON
 About.com	ORG
 VBScript	PRODUCT
-Xing	ORG
 License Proprietary	ORG
 Johnson & Johnson	ORG
 Peach	PERSON
@@ -3597,7 +3587,7 @@ Northern California	LOC
 OHG	ORG
 Contra Costa	GPE
 Occitan	NORP
-LinkedIn Learning	ORG
+LinkedIn Learning	PRODUCT
 Saturn	PRODUCT
 Mixer	PRODUCT
 Ball	PERSON
@@ -4028,7 +4018,6 @@ Private	ORG
 Pulitzer Prize for National Reporting	WORK_OF_ART
 Martin Luther	PERSON
 El País	GPE
-LinkedIn Corporation	ORG
 Brexit	PERSON
 ITpro	ORG
 Ina	PERSON
@@ -4670,7 +4659,7 @@ IB	ORG
 MX	PRODUCT
 Naomi Gleit	PERSON
 Lars Rasmussen	PERSON
-LinkedIn Pulse	ORG
+LinkedIn Pulse	PRODUCT
 Chris Cox	PERSON
 Alphonso Labs	ORG
 Arabian	NORP
@@ -5255,7 +5244,6 @@ Scala	ORG
 BSkyB	ORG
 $18M	MONEY
 Atmel	PERSON
-LinkedIn Top Companies	ORG
 Gawker	ORG
 LGBT	GPE
 Stern	PERSON
@@ -6612,6 +6600,7 @@ Ginni Rometty	PERSON
 Samuel J. Palmisano	PERSON
 Amador	GPE
 Slideshare	PRODUCT
+Slideshare	ORG
 Barack	PERSON
 Alipay	ORG
 Mastercard	ORG
@@ -8016,7 +8005,6 @@ Social networking	ORG
 Griggs	PERSON
 PostScript	WORK_OF_ART
 Peugeot	ORG
-LinkedIn's	ORG
 Dean Baquet	PERSON
 Savage	ORG
 SmartDraw	ORG
@@ -8056,14 +8044,12 @@ Marinduque	LOC
 Douglas E.	PERSON
 Hyde Park	GPE
 Randy	PERSON
-LinkedIn Website	ORG
 Chronicle Books	ORG
 HTTP	PRODUCT
 NIS	ORG
 Hewlett Packard	ORG
 Jonathan Boutelle	PERSON
 Jutland	GPE
-Slideshare	PERSON
 DMR	ORG
 MobileMe	ORG
 |title=	PERSON
@@ -8297,7 +8283,6 @@ Washington D.C.	GPE
 CPO	ORG
 Alpert	PERSON
 Flipboard	WORK_OF_ART
-Drawbridge	PRODUCT
 Haarlem	GPE
 Canary Wharf	GPE
 Keach	PERSON
@@ -8308,7 +8293,6 @@ Dachau	NORP
 Facebook Live	WORK_OF_ART
 LCD	ORG
 Christopher Cantwell	PERSON
-Pulse News Reader	WORK_OF_ART
 Schofield	GPE
 the United States's	GPE
 Najib Razak	PERSON
@@ -8318,7 +8302,6 @@ Peggy Noonan	PERSON
 USC	GPE
 Charles Dow	PERSON
 Craig Timberg	PERSON
-Pulse Is Now Alive And Kicking On Android	WORK_OF_ART
 The Wall Street Journal Asia	ORG
 QZone	ORG
 cbc.ca	ORG
@@ -8329,7 +8312,6 @@ Flux Studio	FAC
 Blake	PERSON
 Engine Watch	ORG
 Tim Besse	PERSON
-SlideShare	ORG
 Macworld	GPE
 Tony Blair	PERSON
 the African Union	ORG
@@ -8838,7 +8820,6 @@ Conde Nast	ORG
 Mac Support Lifecycle	PRODUCT
 Lai	PERSON
 Manchu	NORP
-Linkedin	PERSON
 Courtney	PERSON
 Arvind	PERSON
 the Super Bowl	EVENT
@@ -9081,7 +9062,6 @@ Conquest	PRODUCT
 Snow Leopard	WORK_OF_ART
 Internal Revenue Service	ORG
 ISI	ORG
-XING AG	ORG
 Encyclopaedia Iranica	PERSON
 0%	PERCENT
 Georges	PERSON
@@ -9166,7 +9146,7 @@ Java	LAW
 Haas	PERSON
 BMM	ORG
 Zimmermann	PERSON
-LinkedIn Newsroom	ORG
+LinkedIn Newsroom	PRODUCT
 Wood	PERSON
 Archive/Nominations	WORK_OF_ART
 SRI	ORG
@@ -9922,7 +9902,6 @@ BitChute	ORG
 Gold Coast	ORG
 Lotus SmartSuite	ORG
 Tracey	PERSON
-lynda.com	ORG
 Tandy	ORG
 Alix M. Freedman	PERSON
 Smear	PRODUCT
@@ -10087,7 +10066,6 @@ Jeffrey Gettleman	PERSON
 PPAPI	ORG
 BDO World Darts Championship	EVENT
 Mlot	PERSON
-Xing	GPE
 RTE News	ORG
 Scribd	WORK_OF_ART
 the Dominican Republic	GPE
@@ -12700,7 +12678,6 @@ Charlton	PERSON
 Abbas	PERSON
 Macintoshes	PERSON
 West Ham United	GPE
-Xing AG	ORG
 Donald Carrington	PERSON
 Paralympics	EVENT
 TYO	ORG
@@ -13567,7 +13544,6 @@ Levant	GPE
 the University of North Carolina	ORG
 Chatham	GPE
 ltd.	ORG
-blog.linkedin.com	PERSON
 The Roman Catholic Church	ORG
 Bombay Stock Exchange	ORG
 Maps	ORG
@@ -13892,7 +13868,7 @@ Moscone Center West	LOC
 Article 102	LAW
 U.S. Bureau of Labor Statistics	ORG
 Suzanne Shell	PERSON
-LinkedIn Video	ORG
+LinkedIn Video	PRODUCT
 Alexis C.	PERSON
 Besse	PERSON
 CNN Money	ORG
@@ -13923,7 +13899,6 @@ Om Malik	PERSON
 Kristin Sherry	PERSON
 Swant	GPE
 Melayu Online	ORG
-SlideShare	WORK_OF_ART
 Twitch.tv	ORG
 $9 billion	MONEY
 Государственное	PERSON
@@ -13940,7 +13915,6 @@ GoToMeeting	PRODUCT
 1B Downloads	PERSON
 Computers in Human Behavior	WORK_OF_ART
 Youku	PRODUCT
-Drawbridge	FAC
 Daniela	PERSON
 the Federal District	ORG
 English:	WORK_OF_ART
@@ -14061,7 +14035,6 @@ Nick Hopkins	PERSON
 Bart	PERSON
 Joseph Menn	PERSON
 native Korean	NORP
-LinkedIn Is Buying SlideShare	WORK_OF_ART
 Eden	GPE
 Sino Korean	NORP
 cooperative	ORG
@@ -14199,7 +14172,6 @@ iTunes Connect	ORG
 iPod Models  	PRODUCT
 Apress	ORG
 Dushanbe	GPE
-LinkedIn Blog	ORG
 Shuffle	PRODUCT
 Odisha	GPE
 Shi	PERSON
@@ -15471,7 +15443,6 @@ Clayton	PERSON
 Lievens	PERSON
 Parliament House	ORG
 Cybercrime	WORK_OF_ART
-Bright.com	PERSON
 William R.	PERSON
 Lahiri	PERSON
 muzyka	PERSON
@@ -16501,7 +16472,6 @@ Dolby	ORG
 A.C. Milan	ORG
 Toponymy	GPE
 QA	ORG
-LinkedIn Influencer	ORG
 Reference Data	ORG
 Maria Callas	PERSON
 Technicolor	PERSON
@@ -17861,7 +17831,6 @@ Stockholm City	GPE
 Conservative Party	ORG
 PowerPoint Turns 20	WORK_OF_ART
 $103 Million	MONEY
-Lynda.com Lands	WORK_OF_ART
 Compilr	ORG
 395	MONEY
 Gamla stan	PERSON
@@ -18769,7 +18738,6 @@ Financial Express	ORG
 Budget 2015	LAW
 UNESCO City of Design	ORG
 Demonetisation	PRODUCT
-LinkedIn Corporation Initial	ORG
 Cognitive Systems Research	ORG
 Nicole A. (	PERSON
 Interdisciplinary Journal of Information	ORG
@@ -18855,7 +18823,7 @@ TOS	PRODUCT
 Digital Directions	ORG
 Paul-Bernhard Kallen	PERSON
 Jaime	PERSON
-LinkedIn Secrets	ORG
+LinkedIn Secrets	PRODUCT
 Arruda	PERSON
 Journal of Educational Computing Research	ORG
 Social Networking Sites for Teaching and Learning	ORG
@@ -19332,7 +19300,6 @@ UC Berkeley News	ORG
 Gmail	WORK_OF_ART
 Viva Piñata	WORK_OF_ART
 Hamlet	PERSON
-linkedin	ORG
 16 Kan. J.L. & Pub	ORG
 Batey	ORG
 PBS MediaShift	ORG
@@ -19711,7 +19678,6 @@ MariaDB	ORG
 Telligent Community	ORG
 Trend Micro	ORG
 Nolte	PERSON
-LinkedIn office	ORG
 Delta Air Lines	ORG
 Brian Harry's	PERSON
 Build	ORG
@@ -19810,7 +19776,6 @@ Blog.posterous.com	ORG
 Londonist	PERSON
 Bing Rewards	ORG
 Mitroff	PERSON
-Pulse	WORK_OF_ART
 2,500	MONEY
 Jonas	GPE
 Twickenham Stadium	FAC
@@ -19937,7 +19902,6 @@ NewsForge	PERSON
 Google AdSense Help Center	ORG
 Clarke-Pearson	ORG
 APK	LOC
-LinkedIn Profile	ORG
 4.58%	PERCENT
 Memorial Parks	FAC
 Swiss German	NORP
@@ -20049,7 +20013,6 @@ S60	PRODUCT
 7.9 per cent	MONEY
 The Mori Memorial Foundation	ORG
 LINQ	ORG
-Slideshare	WORK_OF_ART
 Powerpoint	WORK_OF_ART
 Blind	PERSON
 the Harvard Business School	ORG
@@ -20538,7 +20501,6 @@ Jiang	PERSON
 Jordaan	GPE
 Global Property Guide	ORG
 Mestizos	NORP
-LinkedIn	GPE
 Download.com	ORG
 Angel Investing	ORG
 TCI Technology Ventures	ORG
@@ -21018,11 +20980,9 @@ Xbox Games	EVENT
 Joseph F.	PERSON
 Alejandro González Iñárritu	PERSON
 Bookmarks	PRODUCT
-Pulsejoins the LinkedIn	WORK_OF_ART
 John M. Carroll	PERSON
 2.5 million rubles	MONEY
 Grant Park	FAC
-Pulse news	ORG
 FED	ORG
 boston.com	ORG
 Powers	ORG
@@ -21038,14 +20998,12 @@ Pete Parsons	PERSON
 the Institute of Design	ORG
 Wunderlist	PERSON
 Habsburg	NORP
-LinkedIn Hidden	ORG
 Atomico	ORG
 Venkat	PERSON
 Hamill	PERSON
 Desktop Windows Version Market Share Worldwide	PRODUCT
 Rikard Herlitz	PERSON
 MSN China	ORG
-Connectifier	PERSON
 John Dewey	PERSON
 $25M	MONEY
 Investopedia	PRODUCT
@@ -21102,7 +21060,6 @@ Bevolkingsontwikkeling	GPE
 Demos Spore	ORG
 iPhone SDK	PRODUCT
 Bitbucket	PRODUCT
-Welcome Pulse	WORK_OF_ART
 Boehm	PERSON
 Control Video Corporation	ORG
 Virtual PC	PRODUCT
@@ -21113,7 +21070,6 @@ Haenlein	GPE
 Bela Gipp	PERSON
 Wunderlist	EVENT
 West Bank	GPE
-Pulse 3.0	WORK_OF_ART
 Monkman	PERSON
 WorldCat	WORK_OF_ART
 Harrington	PERSON
@@ -21137,7 +21093,6 @@ Chapter 7	LAW
 Office Solutions	ORG
 Glee Broadcasts	WORK_OF_ART
 Scottish Courts	ORG
-Pulse News Mini	ORG
 mestizos	NORP
 Online Computer Library Center	ORG
 Yooka-Laylee	ORG
@@ -21153,15 +21108,12 @@ Logitech	ORG
 Marketing Mix and Traffic - Alexa	WORK_OF_ART
 the Mozilla Foundation	ORG
 Hebrides	LOC
-Pulse Launches a Beautiful Web App	WORK_OF_ART
 Stagefright	PERSON
 Daily News, Powered By Your Professional World	WORK_OF_ART
 Rathbun	PERSON
-Introducing the New LinkedIn Pulse:	WORK_OF_ART
 Far East	LOC
 MSX	ORG
 David Humphrey	PERSON
-Pulse 3.0	ORG
 The Surface Pro 3	PRODUCT
 Show HN	WORK_OF_ART
 GitHub Pages	ORG
@@ -21177,7 +21129,6 @@ RRAM	ORG
 Caltrans	ORG
 the Mountain View Public Library	ORG
 Māhū	GPE
-Pulse	EVENT
 the UCSF Medical Center	ORG
 400	MONEY
 Gründerfonds	PERSON
@@ -21205,7 +21156,6 @@ William B. Ide	PERSON
 Helicon	PRODUCT
 Zollverein	PERSON
 Yo-Shang Cheng	PERSON
-Pulse	FAC
 Architecture	WORK_OF_ART
 Techland	ORG
 Metamaterial	GPE
@@ -21333,7 +21283,6 @@ Sinicki	PERSON
 International Small Business Journal	ORG
 Presspass	PERSON
 Bay	LOC
-Pulse Mobile Application Icon	ORG
 The London Underground	FAC
 Robert J.	PERSON
 Android Developers Blog	WORK_OF_ART
@@ -23191,7 +23140,6 @@ Tibeto-Burman	ORG
 Y	PERSON
 InMaps	ORG
 Hiragana	LANGUAGE
-LinkedIn’s	ORG
 PCB	ORG
 13 km	QUANTITY
 Jobvite	ORG
@@ -29589,7 +29537,6 @@ Societas Europaea Type	ORG
 Battersea Power Station	FAC
 Miller Avenue	FAC
 Stefan Groß-Selbeck	PERSON
-Linkedin	GPE
 Honeypot	ORG
 Office of the Press	ORG
 €22 million	MONEY
@@ -29650,7 +29597,6 @@ Bayeux	GPE
 Caribbean Sea	LOC
 C. M.	PERSON
 Spears	PERSON
-LinkedInsiders	ORG
 Come European Start-Ups	LAW
 Savoy	GPE
 Eisenhower Executive Office Building	ORG
@@ -29669,7 +29615,6 @@ O'Hara	PERSON
 Jacquie	PERSON
 Der Xing-Chef i	PERSON
 Gross-Selbeck	PERSON
-LinkedInsider Deutschland	ORG
 16GB	QUANTITY
 the Bureau of Labor Statistics	ORG
 Wetlaufer	PERSON
@@ -30644,7 +30589,6 @@ Graecia	GPE
 Carthaginian	GPE
 Web 2.0 Services	ORG
 Business & Professional Ethics Journal	ORG
-LinkedIn for Personal Branding:	WORK_OF_ART
 Maridel	GPE
 Dr GUI	PERSON
 Studio Express	ORG
@@ -30653,7 +30597,6 @@ msdn.microsoft.com	ORG
 Weather Underground	ORG
 The Echo	PRODUCT
 MVB	ORG
-LinkedIn for Personal Branding: The Ultimate Guide	WORK_OF_ART
 Creative Commons Attribution 4.0 International License	ORG
 Moovit	PERSON
 Echo	ORG
@@ -30694,7 +30637,6 @@ Rock Creek Park	LOC
 Google Checkout	ORG
 Mag	ORG
 Kim Zetter	PERSON
-LinkedIn Just	ORG
 Aryans	NORP
 The Universal Declaration of Human Rights	LAW
 Tübingen	PERSON
@@ -30704,7 +30646,6 @@ the Federal Republic of Germany Capitals	GPE
 Oswyn Murray	PERSON
 Lisa R. Brody	PERSON
 Davaoeño	GPE
-LinkedIn Revamps iPhone	ORG
 Silver Spring	GPE
 Stockholm	WORK_OF_ART
 the Republic of Ireland Media	GPE
@@ -30716,13 +30657,10 @@ International Congress	EVENT
 Canadian History	ORG
 Romblomanon	GPE
 Onhan	GPE
-LinkedIN	ORG
 Asi	PERSON
 the State of Bremen	GPE
 Leverkusen	GPE
-World's Largest LinkedIn Group	ORG
 An Introspection On Intro Security	WORK_OF_ART
-LinkedIn '	ORG
 Hamm	GPE
 Fitzgerald	PERSON
 Kalagan	GPE
@@ -30748,8 +30686,6 @@ George Gendron	PERSON
 Washington City Paper	ORG
 Second War of Independence  	EVENT
 Crimean War  	EVENT
-27.7%	PERCENT
-Hacker Group Creates Network of Fake LinkedIn Profiles	ORG
 Namir Noor-Eldeen	PERSON
 Ghibellines	GPE
 Odoacer	ORG
@@ -30762,7 +30698,6 @@ Seite	ORG
 Mazen Dana	PERSON
 Virtual Tours	LOC
 Encyclopædia Britannica	PERSON
-LinkedIn Adopts '	ORG
 Kasiguranin	GPE
 the Wayback Machine , Business Week	FAC
 Paranan	GPE
@@ -30777,7 +30712,6 @@ Bigg	PERSON
 Luzon Ilocos	LOC
 Gunderson	PERSON
 Digital Duo	ORG
-LinkedIn Acquires Pulse	ORG
 YouTrack	PERSON
 Falk	PERSON
 World Lenses	WORK_OF_ART
@@ -30816,7 +30750,6 @@ Tantau	GPE
 Sport und Medien	ORG
 SecureDrop	PERSON
 Ratcliffe	PERSON
-LinkedIn Buys Careerify	PERSON
 North Europe	LOC
 FIBA	NORP
 BOSH	ORG
@@ -30835,7 +30768,6 @@ $120m	MONEY
 Fortune Media Group Holdings	ORG
 Hafiz	PERSON
 White Americans	NORP
-LinkedIn Makes Another Deal	ORG
 the Washington National Opera	ORG
 WebJobs	PERSON
 Ljost	GPE
@@ -30853,9 +30785,6 @@ Spuler	PERSON
 Bertold	PERSON
 Walker Evans	PERSON
 Luciano	PERSON
-Bizo	PERSON
-Azure IoT Edge	WORK_OF_ART
-LinkedIn Buys Refresh.io	ORG
 MAYA	PERSON
 Wikidata Wikipedia	PRODUCT
 Busan International Film Festival	EVENT
@@ -30866,12 +30795,9 @@ Nancy Cluts	PERSON
 Indo-Europeans	NORP
 Jon Phillips	PERSON
 Köçek	GPE
-Linkedin Publishing	ORG
 Queer	NORP
 Consumer Affairs	ORG
 LifeCam Studio	ORG
-LinkedIn Just Launched Some Snapchat-Like Features for Video Creators	WORK_OF_ART
-Introducing LinkedIn Video: Show Your Experience and Perspective	WORK_OF_ART
 Euler	PERSON
 Carlos Cardona	PERSON
 Camilo Cruz	PERSON
@@ -30908,7 +30834,6 @@ Official Microsoft Download Center	ORG
 Reuven	PERSON
 Dariani	PERSON
 AIK	ORG
-business.linkedin.com	ORG
 Fliptop	ORG
 Friends Arena	FAC
 Purplebricks and Foxtons	ORG
@@ -30917,12 +30842,9 @@ Macau Grand Prix	EVENT
 the Capital One Arena	PRODUCT
 Labs, Inc.	ORG
 Mandago	ORG
-"LinkedIn Corp"""	ORG
 Foundation of the GNU	ORG
 Afary	PERSON
 Hampton Court	ORG
-LinkedIn Second-Degree Connections	ORG
-linkedinsiders.wordpress.com	ORG
 Penguin Adult	PERSON
 Danderyd	GPE
 Chamber Society	ORG
@@ -30942,7 +30864,6 @@ van der Rohe	PERSON
 Ludwig Mies	PERSON
 Balabac	GPE
 BLPCOI	ORG
-Knowledge When You Need It: Lynda.com	WORK_OF_ART
 the Rise of Online Education	WORK_OF_ART
 $4.55 million	MONEY
 Michael Chan	PERSON
@@ -30979,8 +30900,6 @@ Pierre Trudeau	PERSON
 Tochal	GPE
 Cocos Malay	NORP
 David Hayes	PERSON
-LinkedIn for Organizations	ORG
-LinkedIn | News Center	ORG
 74.8%	PERCENT
 Udemy	GPE
 Front Street West	FAC
@@ -31005,11 +30924,9 @@ EduKart	PERSON
 Duolingo  	PERSON
 Edtech Group	ORG
 Kungsholmen	ORG
-LinkedIn + Microsoft	ORG
 Niu	PERSON
 the Report on Business Magazine	ORG
 ToS	ORG
-LinkedIn Referrals Set	ORG
 CXFS	ORG
 Azure Kinect	WORK_OF_ART
 JFS	ORG
@@ -31029,14 +30946,12 @@ University of Wisconsin: Computer Sciences Department	ORG
 Moorish	NORP
 PAYTALK	ORG
 The Daily Dot	ORG
-专业社交网站LinkedIn推出中文版	WORK_OF_ART
 Khordad	NORP
 Rutgers University	ORG
 Hikayat	PERSON
 TypeScript	ORG
 Barton P. Miller	PERSON
 The Old Town	ORG
-LinkedIn jumpstarts China	ORG
 Telmex	ORG
 S. Korea	GPE
 British Newspaper	ORG
@@ -31067,7 +30982,6 @@ Thomas A. (	PERSON
 LimeWire	ORG
 BetaNews	PERSON
 SPS	ORG
-LinkedIn Intervention	ORG
 ING Group	ORG
 the Stockholm archipelago	LOC
 North Moluccan	NORP
@@ -31156,13 +31070,10 @@ Friendiqa	GPE
 Va.	GPE
 Annamoradnejad	PERSON
 Friendica Support	WORK_OF_ART
-Ways Recruiters Use LinkedIn	ORG
 Arnie	PERSON
 Blueprint	WORK_OF_ART
 Fertig	PERSON
 Jim Ledbetter	PERSON
-Crash Course: LinkedIn Showcase Pages 101	WORK_OF_ART
-LinkedIn Company Product & Services	ORG
 Jr.	GPE
 Jason Zweig	PERSON
 Friendica	GPE
@@ -31170,19 +31081,15 @@ Indie Games	ORG
 Banking  Central Bank	ORG
 Friendica	FAC
 Watson	PRODUCT
-LinkedIn Showcase Pages	ORG
 Aviad	PERSON
 World War II  Resistance and Social Republic  	EVENT
 Friendica Developers	WORK_OF_ART
 Who's Viewed Your Posts	WORK_OF_ART
 Rīga	PERSON
 Malayic Malayan	ORG
-LinkedIn Launches New College	ORG
 FP Publications	ORG
 Botkyrka	PERSON
 Södertälje	GPE
-LinkedIn Corporate Communications Team	ORG
-Blog.linkedin.com	PERSON
 Where Is the Top City to Spot Tech Talent	WORK_OF_ART
 Southern Italian	NORP
 Between the Lines   	ORG
@@ -31197,14 +31104,12 @@ Digikala	GPE
 John A. Macdonald	PERSON
 Iran Daily	ORG
 FP	ORG
-LinkedIn Help Pages	ORG
 Holstein	GPE
 CHEESMAN	ORG
 Täby	PERSON
 Sollentuna	GPE
 Lidingö	PERSON
 Upplands Väsby	PERSON
-"LinkedIn Is Quietly Retiring Network Visualization Tool InMaps"""	WORK_OF_ART
 Ng  	PERSON
 Steve Wozniak       	PERSON
 the USA Network	ORG
@@ -31212,35 +31117,29 @@ The New Edge	WORK_OF_ART
 William Thorsell	PERSON
 Berkeley Technology Law Journal	ORG
 the Communications, Energy and Paperworkers Union of Canada	ORG
-LinkedIn American	NORP
 1.2B	MONEY
 CNET TV	ORG
 SELFPUB	ORG
 NAS	ORG
 Snapchat	WORK_OF_ART
 Brian W.	PERSON
-IMissOldLinkedIn	MONEY
 Thorp-Lancaster	ORG
 Toruń	PERSON
 84.6%	PERCENT
 New York,16	ORG
-LinkedIn Builds Its Publishing Presence	ORG
 Allahu Akbar	PERSON
 Zwin	PERSON
 9.3%	PERCENT
 France Télécom	ORG
 Will Eventually Make Feature Universal	WORK_OF_ART
 Bruges	ORG
-LinkedIn Expands Its Jobs Database	ORG
 Binghamton	GPE
-LinkedIn Allows You To Follow Key Influencers On The Network	WORK_OF_ART
 Leith	ORG
 Ann Coulter	PERSON
 The Ultimate Guide	ORG
 Bishop	ORG
 GNU	WORK_OF_ART
 Middle East Institute	ORG
-Will LinkedIn Address the Influencer Program's Gender Lopsidedness	WORK_OF_ART
 TheTVDB	PERSON
 89.0%	PERCENT
 "vs Google Adwords"""	PRODUCT
@@ -31264,7 +31163,6 @@ Shoutex.com	ORG
 Inje	ORG
 rstat.us	ORG
 3PAR	PRODUCT
-LinkedIn Answers	ORG
 the Second Vatican Council	ORG
 Tech Talent Pipeline	WORK_OF_ART
 Juan Gabriel	PERSON
@@ -31288,20 +31186,13 @@ Replica	ORG
 "the Web 2.0"""	ORG
 The Facebook For Families	ORG
 Haarlemmerstraat	GPE
-LinkedIn JobSeeker	PERSON
 Sugiyama	GPE
 Concordia	GPE
-LinkedIn Talent	ORG
 Hawaii International Conference on System Sciences	EVENT
 The Constitution	LAW
 A.L.	PERSON
 Pietists	PERSON
 Novell GroupWise	ORG
-LinkedIn retired InMaps	ORG
-the Amana Colonies	ORG
-LinkedIn Business	ORG
-Iran Chamber Society:	WORK_OF_ART
-LinkedIn Referrals	ORG
 HSV Handball	ORG
 de Tuenti	PERSON
 Ajinomoto	ORG
@@ -31315,7 +31206,6 @@ Reuters AlertNet	PERSON
 over 12 km	QUANTITY
 Trump Consultants	ORG
 Cadwalladr	ORG
-LinkedIn Influencers	ORG
 Live Search Club	ORG
 6 mi	QUANTITY
 Halmstad	PERSON
@@ -31341,7 +31231,6 @@ Iwata	PERSON
 BMJ	ORG
 HSV	ORG
 Palatinate German	NORP
-LinkedIn DirectAds	ORG
 rumah	ORG
 martedì	ORG
 kahi  	PERSON
@@ -31382,10 +31271,8 @@ Alonso	PERSON
 John Harwood	PERSON
 VX Models	PRODUCT
 Pozner	PERSON
-Linkedin: A Short Historical Review	WORK_OF_ART
 David Mercer	PERSON
 XPages	PERSON
-Linkedin.com Traffic, Demographics and Competitors - Alexa	WORK_OF_ART
 Friesen	PERSON
 Mahwah	GPE
 G. Bruce	PERSON
@@ -31412,7 +31299,6 @@ the Organic Act	LAW
 60.2%	PERCENT
 Bing Videos	ORG
 Kubota	ORG
-LinkedIn Sales	ORG
 "a "" Jasmine Revolution """	WORK_OF_ART
 The Tokyo Times	ORG
 Haarlemmerdijk	GPE
@@ -31546,7 +31432,6 @@ Manuel Castells	PERSON
 The World's Top-Earning	ORG
 roughly 400%	PERCENT
 25 mi	QUANTITY
-CardMunch	PERSON
 otto  	PERSON
 Weeworld.com	ORG
 Evan Osnos	PERSON
@@ -31690,7 +31575,6 @@ La Razón	ORG
 the Namibian Broadcasting Corporation	ORG
 Giselher W. Hoffmann	PERSON
 Hassell	PERSON
-LinkedIn Acquires Social CRM Company Connected	ORG
 Gabriela Mistral	PERSON
 BusinessWire	PERSON
 Cloud and AI	ORG
@@ -31732,7 +31616,6 @@ up to 15%	PERCENT
 Adhikari	GPE
 Theverge.com	ORG
 Ajit Kumar	PERSON
-LinkedIn Marketing Solutions Blog	ORG
 Phoolgen	GPE
 Polina Marinova	PERSON
 10 Surprising Stats	WORK_OF_ART
@@ -31820,21 +31703,17 @@ jeweiligen Preisen	ORG
 Joseph Kony	PERSON
 Everyme	ORG
 Roy Moore	PERSON
-LinkedIn Help	ORG
 EU Data Transfers	ORG
 Lotus Protector	PRODUCT
-"LinkedIn Help Center"""	ORG
 2.63%	PERCENT
 The Royal Court of Sweden	ORG
 Gleicher	PERSON
 Learmonth	PERSON
-LinkedIn Falls	ORG
 tuenti	ORG
 Tatlong	GPE
 Abigail	PERSON
 OpenURL	ORG
 CMH	ORG
-LinkedIn Hooks	ORG
 3B	MONEY
 moon	PERSON
 Brincat	PERSON
@@ -31894,7 +31773,6 @@ Northwestern	ORG
 Shivani	PERSON
 Shinde	PERSON
 Friesen & Swift	ORG
-LinkedIn Mobile	ORG
 Tuenti Móvil	PERSON
 Digital Object Identifier	ORG
 Valenzuela	GPE
@@ -32628,7 +32506,6 @@ Flight 17	PRODUCT
 Malaysia Airlines	ORG
 pro-Kremlin	PERSON
 £1.2 million	MONEY
-LinkedIn liest	PERSON
 Christmas Charity Appeal	WORK_OF_ART
 Robert Harris	PERSON
 Bill Deedes	PERSON
@@ -32644,7 +32521,6 @@ Stiftung Warentest kritisiert	ORG
 Queen Mary II	PERSON
 Maurice Green	PERSON
 Colin Coote	PERSON
-LinkedIn und Myspace	ORG
 Arthur Watson	PERSON
 Fred Miller	PERSON
 John le Sage	PERSON
@@ -32677,7 +32553,6 @@ Ligustrum	PERSON
 sea	WORK_OF_ART
 heise.de	NORP
 Bishton	GPE
-Russland blockiert Linkedin	ORG
 Westcott	PERSON
 Mossberg	ORG
 Ian Douglas's	PERSON
@@ -32762,7 +32637,6 @@ Sue Schofield	PERSON
 The Daily Telegraph Guide	WORK_OF_ART
 The Electronic Telegraph	ORG
 Electronic Telegraph	ORG
-LinkedIns	ORG
 Gonzalo	PERSON
 General Trust plc	ORG
 Presti	PERSON
@@ -33110,7 +32984,6 @@ JD Journal	ORG
 Yhteisaluelaki	PERSON
 Jeffrey H.	PERSON
 NBCUniversal Broadcast, Cable	ORG
-LinkedIn 2002	ORG
 Manado Malay	PERSON
 ICIST	ORG
 Yhtesimetsälaki	PERSON
@@ -34016,9 +33889,7 @@ Opera.com	ORG
 Donald W.	PERSON
 KWin	ORG
 Restricted Mode	WORK_OF_ART
-Welcome Bright to the LinkedIn Family	WORK_OF_ART
 Gary P.	PERSON
-the United States LinkedIn 2014	GPE
 WavePhore	ORG
 Ludwig van Beethoven	PERSON
 VoloMetrix	PRODUCT
@@ -34704,7 +34575,6 @@ New Update	EVENT
 Moschino	ORG
 Green Diamond	WORK_OF_ART
 ProgrammableWeb	PERSON
-Pulse (Application	ORG
 New Xbox	GPE
 Ansari	PERSON
 Village Pointe	FAC
@@ -34745,7 +34615,6 @@ Esperanza kay Juan	PERSON
 Nestlé	ORG
 Guild	ORG
 Turner Park	FAC
-LinkedIn Corporation LinkedIn	ORG
 Midtown	LOC
 Facebook Business .	ORG
 Outlook/Exchange	ORG
@@ -34820,7 +34689,6 @@ Angus Davis	PERSON
 BlueNorOff	ORG
 rua	PERSON
 Foursquare   Location	PRODUCT
-LinkedIn Corp	ORG
 about 80%	PERCENT
 NSO Group	ORG
 AndAriel	ORG
@@ -34844,7 +34712,6 @@ IPG	ORG
 USA   -  	PERSON
 Albert-László	NORP
 Bangladesh Bank	ORG
-Connectifier   Web application	ORG
 xmpp.org	ORG
 Glint Inc.	ORG
 110 km	QUANTITY
@@ -34934,21 +34801,16 @@ Chaillot	ORG
 Withee	PERSON
 iOS Initial	ORG
 Reeperbahn	GPE
-LinkedIn Recommendations	ORG
 Saint-Gobain	ORG
 Olaf	PERSON
 $0.6 million	MONEY
 horlogers	ORG
 SearchExchange	ORG
-LinkedIn Events	ORG
-$100 billion	MONEY
-s   s	PRODUCT
 Socorro Silva de Aragão	PERSON
 Statistiche demografiche ISTAT	PRODUCT
 TCJA	ORG
 $3.9 million	MONEY
 18,933,336	MONEY
-CardMunch  	ORG
 Scan	ORG
 Ethisphere	ORG
 Julius	PERSON
@@ -35024,7 +34886,6 @@ $3.6 billion	MONEY
 Bizo	ORG
 Newsle	ORG
 lo	PERSON
-Pulse   Web / Mobile	ORG
 the Republic of Kazakhstan	GPE
 Marvin Bower	PERSON
 Office 365 for Education	ORG
@@ -35039,7 +34900,6 @@ SharePoint MySites	ORG
 Baumwall	PRODUCT
 Telecommunications	ORG
 WWE News	ORG
-Lynda.com   	PRODUCT
 Giddings	PERSON
 Stratfor	ORG
 Ayse	PERSON
@@ -35411,7 +35271,6 @@ the Deutsches Museum	ORG
 Chin	PERSON
 Slide	ORG
 Cupid.com	ORG
-LinkedIn SlideShare Screenshot	PERSON
 München Hauptbahnhof	GPE
 Adelphia	ORG
 Crippleware	PRODUCT
@@ -35422,7 +35281,6 @@ Geosocial	WORK_OF_ART
 −20.4	ORG
 Boutelle	PERSON
 MVC	PRODUCT
-Slideshare	ORG
 the Omaha Stockyards	ORG
 CalDAV Connector	ORG
 a million dollars	MONEY
@@ -35476,15 +35334,12 @@ Laim	PERSON
 Aubing-Lochhausen-Langwied	ORG
 Pasing	NORP
 Refref	PERSON
-Blog.slideshare.net	PERSON
 Xbox One	WORK_OF_ART
 Over 50%	PERCENT
 the National Institutes of Health	ORG
 Fannie Mae	ORG
 Francisco Baltazar	PERSON
 Mazandaran province	GPE
-| SlideShare Blog	PERSON
-Jon @ SlideShare	PERSON
 56.1%	PERCENT
 Frederick Metz	PERSON
 Paul Ingrassia	PERSON
@@ -35503,7 +35358,6 @@ Piazza degli Affari	FAC
 Rashid	PERSON
 71.3%	PERCENT
 Florante	PERSON
-Lynda.com	WORK_OF_ART
 Deloitte Global	ORG
 PositiveSingles	ORG
 Foltz	PERSON
@@ -35517,7 +35371,6 @@ Physicians Mutual	ORG
 Node.js	GPE
 Ramersdorf-Perlach	ORG
 IntelliSense	ORG
-SlideShare: Power Point + YouTube	WORK_OF_ART
 Social Web Applications	ORG
 Hanukkah	WORK_OF_ART
 DailyMail	ORG
@@ -35535,8 +35388,7 @@ Cider	WORK_OF_ART
 VP of Engineering	ORG
 Patent	ORG
 Outlook 2002	LAW
-The Rise Of SlideShare	WORK_OF_ART
-Aponte	PERSON
+Tponte	PERSON
 James Watt	PERSON
 20.6%	PERCENT
 Economy of Milan	ORG
@@ -37694,7 +37546,6 @@ en.wikipedia	ORG
 Social Behavior	ORG
 Central Plain	LOC
 Qing	ORG
-xing	PERSON
 Hyperion	ORG
 Trusted Contacts	ORG
 CBC Radio One	ORG
@@ -38282,7 +38133,6 @@ Tempora	ORG
 The Joint Technical Language Service	ORG
 Colina	GPE
 Financials	ORG
-Drawbridge	PERSON
 Cypher School	WORK_OF_ART
 WikiProject Companies	ORG
 Neil McAllister	PERSON
