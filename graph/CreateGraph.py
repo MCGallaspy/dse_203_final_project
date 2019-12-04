@@ -31,7 +31,7 @@ def createNodes():
             next(reader, None)  # skip the headers
             for row in reader:
                 row[0] = str(row[0]).replace("\"", "").strip()
-                row[0] = row[0].replace("\\", "").strip() #.upper()
+                row[0] = row[0].replace("\\", "").strip().upper()
                 # if(row[1] == ""):
                 #     row[1] = 'NoLabel'
                 if row[1] in NODE_LABELS:
@@ -53,7 +53,7 @@ def updateNodeProperties():
         reader = csv.reader(tsvfile, delimiter='\t')
         next(reader, None)  # skip the headers
         for row in reader:
-            nodeName = str(row[0]) #.upper()
+            nodeName = str(row[0]).upper()
             propKey = str(row[1]).replace(" ", "").strip()
             propValue = str(row[2])
 
@@ -77,8 +77,8 @@ def updateRelations():
         for row in reader:
             if(len(row) > 0):
                 edgeID =  str(row[0])
-                startNode = str(row[1]).strip() #.upper()
-                endNode = str(row[2]).strip() #.upper()
+                startNode = str(row[1]).strip().upper()
+                endNode = str(row[2]).strip().upper()
                 edgeLabel = str(row[3]).replace(" ", "").strip()
 
                 #Handle empty lines
