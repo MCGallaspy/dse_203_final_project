@@ -57,8 +57,10 @@ def updateNodeProperties():
             propKey = str(row[1]).replace(" ", "").strip()
             propValue = str(row[2])
 
-            print("Updating node property:", nodeName, propKey, propValue)
-            graph.run(queryUpdateProperty.format( nodeName=nodeName, propKey=propKey, propValue=propValue))
+            if (nodeName is not None and len(nodeName.strip()) > 0 and propKey is not None and len(
+                    propKey.strip()) > 0):
+                print("Updating node property:", nodeName, propKey, propValue)
+                graph.run(queryUpdateProperty.format( nodeName=nodeName, propKey=propKey, propValue=propValue))
 
     print("Node property update Done!")
 
@@ -71,18 +73,19 @@ queryUpdateRelation = """MATCH (a),(b) WHERE a.name =~ "(?i){startNode}" AND b.n
 # Set relationships with edge IDS
 EDGEID_ACQUIRED=[]
 def updateRelations():
-    with open('./Input/Connectivity_Merged.tsv') as tsvfile:
+    with open('./Input/Connectivity.tsv') as tsvfile:
         reader = csv.reader(tsvfile, delimiter='\t')
         next(reader, None)  # skip the headers
         for row in reader:
             if(len(row) > 0):
-                edgeID =  str(row[0])
+                edgeID =  str(int(float(row[0])))
                 startNode = str(row[1]).strip().upper()
                 endNode = str(row[2]).strip().upper()
                 edgeLabel = str(row[3]).replace(" ", "").strip()
 
                 #Handle empty lines
-                if(edgeID is not  None and len(edgeID.strip()) > 0):
+                if((edgeID is not  None and len(edgeID.strip()) > 0) and (startNode is not  None and len(startNode.strip()) > 0)
+                    and (endNode is not  None and len(endNode.strip())) and (edgeLabel is not  None and len(edgeLabel.strip()) > 0 )):
                     if (edgeLabel == 'acquired'):
                         EDGEID_ACQUIRED.append(edgeID)
                     print("Processing Relation:", edgeID, startNode, endNode, edgeLabel)
@@ -97,16 +100,16 @@ queryUpdateEdgeProperty = """MATCH (a)-[r]-(b) where r.EdgeID={edgeID}
                             """
 # Update Edge Properties
 def updateEdges():
-    with open('./Input/EdgeProperty_Merged.tsv') as tsvfile:
+    with open('./Input/EdgeProperty.tsv') as tsvfile:
         reader = csv.reader(tsvfile, delimiter='\t')
         next(reader, None)  # skip the headers
         for row in reader:
-            edgeID =  str(row[0])
+            edgeID =  str(int(float(row[0])))
             edgePropKey = str(row[1]).replace(" ", "").strip()
             edgePropValue = str(row[2])
 
             #Handle empty lines
-            if (edgeID is not None and len(edgeID.strip()) > 0):
+            if (edgeID is not None and len(edgeID.strip()) > 0 and edgePropKey is not None and len(edgePropKey.strip()) > 0 ):
                 # Get the year only
                 if(edgeID in EDGEID_ACQUIRED and  edgePropKey=='Date'):
                     edgePropValue = edgePropValue[-4:]
@@ -125,7 +128,7 @@ def deleteOrphanNodes():
 
 # GENERATE THE GRAPH
 print("*********** Call create node ***********")
-createNodes()
+# createNodes()
 
 print("*********** Call update node properties ***********")
 updateNodeProperties()
