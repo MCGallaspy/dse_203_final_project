@@ -31,7 +31,7 @@ def createNodes():
             next(reader, None)  # skip the headers
             for row in reader:
                 row[0] = str(row[0]).replace("\"", "").strip()
-                row[0] = row[0].replace("\\", "").strip().upper()
+                row[0] = row[0].replace("\\", "").strip() #.upper()
                 # if(row[1] == ""):
                 #     row[1] = 'NoLabel'
                 if row[1] in NODE_LABELS:
@@ -42,7 +42,7 @@ def createNodes():
 
 
 # Query string to update properties for base nodes
-queryUpdateProperty = """MATCH (n) WHERE n.name = "{nodeName}"
+queryUpdateProperty = """MATCH (n) WHERE n.name =~ "(?i){nodeName}"
                         WITH n
                         set n.{propKey} = "{propValue}"
                         """
@@ -53,7 +53,7 @@ def updateNodeProperties():
         reader = csv.reader(tsvfile, delimiter='\t')
         next(reader, None)  # skip the headers
         for row in reader:
-            nodeName = str(row[0]).upper()
+            nodeName = str(row[0]) #.upper()
             propKey = str(row[1]).replace(" ", "").strip()
             propValue = str(row[2])
 
@@ -64,7 +64,7 @@ def updateNodeProperties():
 
 
 # Update relationships Query
-queryUpdateRelation = """MATCH (a),(b) WHERE a.name = "{startNode}" AND b.name = "{endNode}"
+queryUpdateRelation = """MATCH (a),(b) WHERE a.name =~ "(?i){startNode}" AND b.name =~ "(?i){endNode}"
                         MERGE (a)-[r:{edgeLabel}]->(b)
                         set r.EdgeID={edgeID}
                         """
@@ -77,8 +77,8 @@ def updateRelations():
         for row in reader:
             if(len(row) > 0):
                 edgeID =  str(row[0])
-                startNode = str(row[1]).strip().upper()
-                endNode = str(row[2]).strip().upper()
+                startNode = str(row[1]).strip() #.upper()
+                endNode = str(row[2]).strip() #.upper()
                 edgeLabel = str(row[3]).replace(" ", "").strip()
 
                 #Handle empty lines
@@ -118,6 +118,11 @@ def updateEdges():
     print("Edge property update Done!")
 
 
+# Delete Orphan Nodes
+def deleteOrphanNodes():
+    graph.run("MATCH (n) WHERE NOT (n)--() DELETE n")
+    print("Deleting orphan nodes Done!")
+
 # GENERATE THE GRAPH
 print("*********** Call create node ***********")
 createNodes()
@@ -130,5 +135,8 @@ updateRelations()
 
 print("*********** Call update edge properties ***********")
 updateEdges()
+
+print("*********** Call delete orphan nodes ***********")
+deleteOrphanNodes()
 
 print("Graph Execution Done!")
