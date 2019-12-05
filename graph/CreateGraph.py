@@ -9,6 +9,7 @@
 import pandas as pd
 import csv
 from py2neo import Graph, Node, Relationship
+import re
 
 # Database Credentials
 uri = "bolt://localhost:7687"
@@ -59,6 +60,12 @@ def updateNodeProperties():
 
             if (nodeName is not None and len(nodeName.strip()) > 0 and propKey is not None and len(
                     propKey.strip()) > 0):
+                if(propKey.upper() == "FOUNDED" or propKey.upper() == "LAUNCHED"):
+                    x = re.findall("[1-2][0-9][0-9][0-9]", str(propValue))
+                    if(len(x) > 0):
+                        propKeyYYYY = propKey + "Year"
+                        propValueYYYY = x[0]
+                        graph.run(queryUpdateProperty.format(nodeName=nodeName, propKey=propKeyYYYY, propValue=propValueYYYY))
                 print("Updating node property:", nodeName, propKey, propValue)
                 graph.run(queryUpdateProperty.format( nodeName=nodeName, propKey=propKey, propValue=propValue))
 
@@ -128,7 +135,7 @@ def deleteOrphanNodes():
 
 # GENERATE THE GRAPH
 print("*********** Call create node ***********")
-# createNodes()
+createNodes()
 
 print("*********** Call update node properties ***********")
 updateNodeProperties()
