@@ -27,7 +27,7 @@ queryCreateNodes = """MERGE (nodeLbl:{nodeLabel} {{name: "{node}"}})"""
 # Create all nodes, skip creation if already present
 NODE_LABELS=['ORG','PERSON','PRODUCT', 'NAICS']
 def createNodes():
-        with open('./Input/NodeLabels.tsv') as tsvfile:
+        with open('./Input/NodeLabels.tsv',encoding="utf8") as tsvfile:
             reader = csv.reader(tsvfile, delimiter='\t')
             next(reader, None)  # skip the headers
             for row in reader:
@@ -50,7 +50,7 @@ queryUpdateProperty = """MATCH (n) WHERE n.name =~ "(?i){nodeName}"
 
 # Set properties for all nodes
 def updateNodeProperties():
-    with open('./Input/NodeProperty.tsv') as tsvfile:
+    with open('./Input/NodeProperty.tsv',encoding="utf8") as tsvfile:
         reader = csv.reader(tsvfile, delimiter='\t')
         next(reader, None)  # skip the headers
         for row in reader:
@@ -79,8 +79,30 @@ queryUpdateRelation = """MATCH (a),(b) WHERE a.name =~ "(?i){startNode}" AND b.n
                         """
 # Set relationships with edge IDS
 EDGEID_ACQUIRED=[]
+
+def convert_monetary(edgePropKey,edgePropValue):
+    if 'Value' in edgePropKey:
+        sam = re.sub(r"\s+", "", edgePropValue)
+        sam = re.sub(r"US","",sam)
+        sam = re.sub(r"\$","",sam)
+        number = re.findall('\d*\.?\d+',sam)
+        if len(number)>0:
+            if "m" in sam.lower() or 'million' in sam.lower():
+                number_ = float(number[0])*10**6
+            elif "b" in sam.lower() or 'billion' in sam.lower():
+                number_ = float(number[0])*10**9
+            elif "k" in sam.lower():
+                number_ = float(number[0])*10**3
+            else:
+                number_ = float(number[0])
+        else:
+            number_ = ""
+        return number_
+    else:
+        return edgePropValue
+
 def updateRelations():
-    with open('./Input/Connectivity.tsv') as tsvfile:
+    with open('./Input/Connectivity.tsv',encoding="utf8") as tsvfile:
         reader = csv.reader(tsvfile, delimiter='\t')
         next(reader, None)  # skip the headers
         for row in reader:
@@ -107,13 +129,14 @@ queryUpdateEdgeProperty = """MATCH (a)-[r]-(b) where r.EdgeID={edgeID}
                             """
 # Update Edge Properties
 def updateEdges():
-    with open('./Input/EdgeProperty.tsv') as tsvfile:
+    with open('./Input/EdgeProperty.tsv',encoding="utf8") as tsvfile:
         reader = csv.reader(tsvfile, delimiter='\t')
         next(reader, None)  # skip the headers
         for row in reader:
             edgeID =  str(int(float(row[0])))
             edgePropKey = str(row[1]).replace(" ", "").strip()
             edgePropValue = str(row[2])
+            edgePropValue = convert_monetary(edgePropKey,edgePropValue)
 
             #Handle empty lines
             if (edgeID is not None and len(edgeID.strip()) > 0 and edgePropKey is not None and len(edgePropKey.strip()) > 0 ):
