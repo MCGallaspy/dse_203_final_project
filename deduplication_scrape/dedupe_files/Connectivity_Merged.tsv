@@ -1,0 +1,1457 @@
+EdgeID	FromNode	ToNode	EdgeLabel
+5	Adam Pisoni	Yammer	Founded
+6	Adam Somlai-Fischer	Prezi	Founded
+7	Adeyemi Ajao	Tuenti	Founded
+9	Allen Blue	LinkedIn	Founded
+13	Apple Inc.	Apple Mail	Developed by
+17	Barry Diller	Expedia Group	Is key to
+18	Barry Diller	Expedia Group	Owns
+19	Batara Eto	Mixi	Founded
+22	Bernd Schlobohm	QSC AG	Is key to
+25	Brian Protiva	ADVA Optical Networking	Is key to
+28	CEO	ADVA Optical Networking	Is key to
+29	CEO	Bechtle	Is key to
+30	CEO	Bright.com	Is key to
+31	CEO	Expedia Group	Is key to
+32	CEO	Facebook	Is key to
+33	CEO	Foursquare City Guide	Is key to
+34	CEO	IdeaPlane	Is key to
+35	CEO	Jenoptik	Is key to
+36	CEO	Pinterest	Is key to
+37	CEO	QSC AG	Is key to
+38	CFO	ADVA Optical Networking	Is key to
+39	CFO	Facebook	Is key to
+41	CTO	ADVA Optical Networking	Is key to
+42	CTO	Facebook	Is key to
+43	CTO	IdeaPlane	Is key to
+45	Chairman	ADVA Optical Networking	Is key to
+46	Chairman	BB Biotech	Is key to
+47	Chairman	Expedia Group	Is key to
+48	Chairman	Facebook	Is key to
+49	Chairman	Jenoptik	Is key to
+50	Chairman	QSC AG	Is key to
+51	Christina Hall	LinkedIn	Is key to
+53	ClearSlide	SlideRocket	Developed by
+54	Connectix	DoubleTalk	Produces
+57	Connectix	Optima	Produces
+58	Connectix	QuickCam	Produces
+59	Connectix	RAM Doubler	Produces
+61	Connectix	Virtual	Produces
+62	Connectix	Virtual Game Station	Produces
+63	Connectix	Virtual PC	Produces
+67	David O. Sacks	Yammer	Founded
+68	David Wehner	Facebook	Is key to
+69	Dennis Crowley	Foursquare City Guide	Founded
+70	Dennis Crowley	Foursquare City Guide	Is key to
+71	Dominique Leroy	Proximus Group	Is key to
+73	Dow Jones	All Things Digital	Owns
+79	Eric Ly	LinkedIn	Founded
+80	Eric Traut	Connectix	Is key to
+81	Erich Hunziker	BB Biotech	Is key to
+87	Expedia Group	Classic Vacations	Produces
+89	Expedia Group	Egencia	Produces
+90	Expedia Group	Expedia Affiliate Network	Produces
+94	Expedia Group	Expedia.com	Produces
+95	Expedia Group	HomeAway	Produces
+96	Expedia Group	Hotels.com	Produces
+97	Expedia Group	Hotwire Group	Produces
+98	Expedia Group	Orbitz	Produces
+99	Expedia Group	Travelocity	Produces
+100	Expedia Group	trivago	Produces
+103	Facebook	Instagram	Developed by
+104	Facebook	Instagram	Owns
+105	Facebook	Messenger	Produces
+106	Facebook	Oculus	Owns
+107	Facebook	Portal	Produces
+109	Facebook	WhatsApp	Owns
+110	"Facebook, Inc."	Facebook	Owns
+112	Florenz Sartorius	Sartorius AG	Founded
+113	Floris Rost van Tonningen	Hyves	Created by
+115	Foursquare Labs	Foursquare City Guide	Owns
+119	Gerry Mackay	Sartorius AG	Is key to
+120	Google	AdMob	Owns
+121	Google	Google AdSense	Developed by
+122	Google	Google Play	Developed by
+123	Google	Google Slides	Developed by
+124	Google	Orkut	Owns
+126	Herdifier Oy	IRC-Galleria	Owns
+132	IBM	IBM Connections	Developed by
+136	Internet Archive	Wayback Machine	Owns
+140	Jay Adelson	Digg	Founded
+141	Jean-Luc Vaillant	LinkedIn	Founded
+143	Joachim Kreuzburg	Sartorius AG	Is key to
+144	Joaquín Ayuso de Pául	Tuenti	Founded
+148	Jon Garber	Connectix	Is key to
+149	Jon Reynolds	SwiftKey	Authored
+151	Kara Swisher	All Things Digital	Created by
+153	Kenji Kasahara	Mixi	Founded
+154	Kenji Kasahara	Mixi	Is key to
+155	Kenny Bentley	Tuenti	Founded
+156	Kevin Rose	Digg	Founded
+157	Kevin Systrom	Instagram	Authored
+158	Koen Kam	Hyves	Created by
+159	Konstantin Guericke	LinkedIn	Founded
+160	LinkedIn	Connectifier	Owns
+166	Mail.ru Group	Odnoklassniki	Owns
+168	Mark Okerstrom	Expedia Group	Is key to
+170	Mashable	CineFix	Owns
+171	Mashable	Mashable Studios	Owns
+175	Microsoft	GreenButton	Owns
+177	Microsoft	Microsoft Office	Developed by
+178	Microsoft	Microsoft PowerPoint	Developed by
+180	Microsoft	OneDrive	Owns
+182	Microsoft	Simplygon	Developed by
+183	Microsoft	SwiftKey	Developed by
+184	Microsoft	Xbox	Owns
+186	Microsoft 	LinkedIn	Owns
+187	Microsoft 	Microsoft Outlook	Developed by
+188	Microsoft 	Yammer	Owns
+190	Mike Krieger	Instagram	Authored
+191	Mike Schroepfer	Facebook	Is key to
+192	Naveen Selvadurai	Foursquare City Guide	Founded
+193	Naveen Selvadurai	Foursquare City Guide	Is key to
+195	Nikos Theodosopoulos	ADVA Optical Networking	Is key to
+198	Nobuhiro Seki	Six Apart	Is key to
+199	Omar Hamoui	AdMob	Founded
+203	Orkut Büyükkökten	Orkut	Founded
+207	Pete Cashmore	Mashable	Founded
+208	Pete Cashmore	Mashable	Is key to
+209	Peter Arvai	Prezi	Founded
+210	Peter Halacsy	Prezi	Founded
+211	Pinterest	Jelly Industries	Owns
+213	Prezi Inc	Prezi	Owns
+214	Proximus Group	BICS	Owns
+217	Proximus Group	Scarlet	Owns
+218	Proximus Group	Skynet	Owns
+219	Proximus Group	Tango	Owns
+225	Qurate Retail Group	Expedia Group	Owns
+226	Rainer Lehmann	Sartorius AG	Is key to
+227	Raymond Spanjar	Hyves	Created by
+228	Reid Hoffman	LinkedIn	Founded
+229	René Fáber	Sartorius AG	Is key to
+230	Rich Barton	Expedia Group	Founded
+231	Rich Martell	FitFinder	Founded
+232	Rick Bowman	Shiftgig	Is key to
+233	Roy McDonald	Connectix	Is key to
+235	Scott Houston	GreenButton	Founded
+236	Shannon Brayton	LinkedIn	Is key to
+237	Sheryl Sandberg	Facebook	Is key to
+240	Sina Corp	Sina Weibo	Owns
+241	Six Apart	Movable Type	Produces
+242	Six Apart	TypePad	Produces
+244	SoftMaker	SoftMaker Presentations	Authored
+245	Sridhar Vembu	Zoho Corporation	Founded
+246	Stefaan De Clerck	Proximus Group	Is key to
+249	Steve Sordello	LinkedIn	Is key to
+250	Telefónica	Tuenti	Owns
+252	Thierry Bernard	Qiagen	Is key to
+253	Thomas Olemotz	Bechtle	Is key to
+254	Tom More	Promo.com	Founded
+256	Tomi Lintelä	IRC-Galleria	Created by
+262	Walt Mossberg	All Things Digital	Created by
+263	Wang Xing	Renren	Founded
+264	Weibo Corporation	Sina Weibo	Owns
+265	World Wide Web Consortium	ActivityPub	Developed by
+266	"Xanga.com, Inc."	Xanga	Owns
+267	Zaryn Dentzel	Tuenti	Founded
+268	Ziff Davis	Mashable	Owns
+273	supervisory board	ADVA Optical Networking	Is key to
+274	supervisory board	Jenoptik	Is key to
+275	supervisory board	QSC AG	Is key to
+276	541511	LinkedIn	NAICSCode
+280	518210	Lynda.com	NAICSCode
+284	Microsoft	Lynda.com	Owns
+285	LinkedIn	Lynda.com	Owns
+293	Microsoft 	SlideShare	Owns
+294	Rashmi Sinha	SlideShare	Founded
+295	LinkedIn	SlideShare	Owns
+300	561311	Glassdoor	NAICSCode
+
+888	Glassdoor	 Recruit Holdings	 acquired
+
+889	 LinkedIn	Bright.com	 acquired
+
+890	 Microsoft	 LinkedIn	 acquired
+
+891	 LinkedIn	 CardMunch	 acquired
+
+892	 Wirecard	 Citi Prepaid Card Services	 acquired
+
+893	United Internet	 Freenet	 acquired
+
+894	United Internet	 Open-Xchange	 acquired
+
+895	SUSS MicroTec	 Tamarack Scientific	 acquired
+
+896	 Facebook	 Eyegroove	 acquired
+
+897	 XING	 Amiando	 acquired
+
+898	Amazon.com	 PlanetAll	 acquired
+
+899	Migme	 alivenotdead.com	 acquired
+
+900	Migme	 LoveByte	 acquired
+
+901	 Microsoft	Calista Technologies	 acquired
+
+902	 Microsoft	 Bungie	 acquired
+
+903	 Microsoft	Microsoft Amalga	 acquired
+
+904	 Microsoft	Perceptive Pixel	 acquired
+
+905	 Microsoft	 Visio	 acquired
+
+906	 Microsoft	Vermeer Technologies	 acquired
+
+907	Tellme Networks	Quack.com	 acquired
+
+908	Yupi	 CiudadFutura	 acquired
+
+909	MSN	 Yupi	 acquired
+
+910	Xamarin	 RoboVM	 acquired
+
+911	 Microsoft	 WebTV	 acquired
+
+912	 Microsoft	 DirecTV	 acquired
+
+913	 Microsoft	ScreenTonic	 acquired
+
+914	 Microsoft	 Rare	 acquired
+
+915	 Red Herring	 acquired	 acquired
+
+916	 Microsoft	Placeware	 acquired
+
+917	 Microsoft	MileIQ	 acquired
+
+918	 Microsoft	Lionhead Studios	 acquired
+
+919	 LinkExchange	 MerchantPlanet	 acquired
+
+920	 Microsoft	 LinkExchange	 acquired
+
+921	Kegonsa Capital	 Jellyfish.com	 acquired
+
+922	 Microsoft	 Farecast.com	 acquired
+
+923	 announced	aQuantive	 acquired
+
+924	 Microsoft	AltspaceVR	 acquired
+
+925	 Microsoft	Wunderlist	 acquired
+
+926	 Alcatel	 Lucent	 acquired
+
+927	Microsoft	 BigPark	 acquired
+
+928	Skype Technologies	 Qik	 acquired
+
+929	 Microsoft	Skype	 acquired
+
+930	(Cork newspaper)	 Irish Times	 acquired
+
+931	 Facebook	tbh (app)	 acquired
+
+932	Bloomberg L.P.	 RTS Realtime Systems	 acquired
+
+933	Bloomberg L.P.	 PolarLake	 acquired
+
+934	 Posh Media Group	 Piczo.com	 acquired
+
+935	 Multiply.com	 Naspers Limited	 acquired
+
+936	 Google	 Zagat	 acquired
+
+937	 Bebo	 Twitch	 acquired
+
+938	 Edmodo	 NetDragon	 acquired
+
+939	 Brainly	 Bask	 acquired
+
+940	 Wachovia	 Wells Fargo	 acquired
+
+941	 AOL	 Huffington Post	 acquired
+
+942	 Telefónica	Tuenti	 acquired
+
+943	 Tinder	 Chill	 acquired
+
+944	Tagged	 Digsby	 acquired
+
+945	 Tagged	 Topicmarks	 acquired
+
+946	 Tagged	 Dash	 acquired
+
+947	Promo.com	 Unstock	 acquired
+
+948	 Oak Pacific	 Xiaonei	 acquired
+
+949	 Alibaba	 Sina Weibo	 acquired
+
+950	 Twitter	Periscope (app)	 acquired
+
+951	 Pinterest	 Hike Labs	 acquired
+
+952	 Pinterest	 Instapaper	 acquired
+
+953	 Pinterest	 Jelly Industries	 acquired
+
+954	 Nextdoor	 UK Streetlife	 acquired
+
+955	 Media	 Myspace	 acquired
+
+956	 Meetup	 Dispatch	 acquired
+
+957	 Prezi	 Infogram	 acquired
+
+958	 Google	 DocVerse	 acquired
+
+959	 Google	 Quickoffice	 acquired
+
+960	 Oracle Corporation	 Sun	 acquired
+
+961	 Sun Microsystems	StarOffice	 acquired
+
+962	 STRATEC	 Diatron	 acquired
+
+963	 Epic Games	Houseparty (app)	 acquired
+
+964	 Facebook	Instagram	 acquired
+
+965	hi5	 Big Six	 acquired
+
+966	 Tagged	hi5	 acquired
+
+967	 SMA	 SMA	 acquired
+
+968	SMA Solar Technology	 Jiangsu Zeversolar New Energy Co. Ltd.	 acquired
+
+969	Sartorius AG	 kSep Systems	 acquired
+
+970	Sartorius AG	 Umetrics	 acquired
+
+971	 QIAGEN	 Staging Inc.	 acquired
+
+972	Qiagen	 SABiosciences	 acquired
+
+973	 QIAGEN	 ESE	 acquired
+
+974	Qiagen	 Ipsogen S.A.	 acquired
+
+975	QIAGEN	 Cellestis Limited	 acquired
+
+976	 QIAGEN	 Exiqon	 acquired
+
+977	 Concord Camera Corp.	 Jenoptik	 acquired
+
+978	Evotec	 DeveloGen AG	 acquired
+
+979	 Evotec	 CCS Cell Culture Service	 acquired
+
+980	 Evotec	 Euprotec	 acquired
+
+981	 Evotec	 Sanofi	 acquired
+
+982	 Broadcom	 Alphamosaic	 acquired
+
+983	Dialog Semiconductor	 iWatt Inc	 acquired
+
+984	 Dialog	 Silego Technology	 acquired
+
+985	ADVA Optical Networking	 US MRV Communications	 acquired
+
+986	aNobii	 Mondadori	 acquired
+
+987	 Press Association	 Reuters	 acquired
+
+988	 Quarterdeck	 Future Labs	 acquired
+
+989	Webex	 Intranets.com	 acquired
+
+990	LinkedIn	 Lynda.com	 acquired
+
+991	IBM	 SPSS Inc.	 acquired
+
+992	 IBM	 Kenexa	 acquired
+
+993	 IBM	 Ustream	 acquired
+
+994	IBM	 Red Hat	 acquiring
+
+995	 Deloitte	 Beijing Pan-China CPA	 acquired
+
+996	 Deloitte	 DOMANI Sustainability Consulting	 acquired
+
+997	 Deloitte	 Data Corporation	 acquired
+
+998	 Deloitte	 Monitor Group	 acquired
+
+999	CNET	 mySimon	 acquired
+
+1000	 CNET	 TechRepublic Inc.	acquired
+
+1001	 CNET	 Webshots	acquired
+
+1002	 CNBC	 FNN	acquired
+
+1003	 Verizon Communications	AOL	acquired
+
+1004	 PandoDaily	 pando.com	acquired
+
+1005	 Gigaom	 Knowingly Corp.	acquired
+
+1006	 Expedia	 Trover	acquired
+
+1007	Hubert Burda Media	 Neue Verlags-Gesellschaft	acquired
+
+1008	Hubert Burda Media	 Bauer Printing Press	acquired
+
+1009	edocr	 Accusoft	acquired
+
+1010	PayPal	 VeriSign	acquired
+
+1011	 PayPal	 Fraud Sciences	acquired
+
+1012	PayPal	 Bill	acquired
+
+1013	 PayPal	 IronPearl	acquired
+
+1014	 Apple	WifiSlam	acquired
+
+1015	 Amazon	Alexa Internet	acquired
+
+1016	 Microsoft	 Danger Inc.	acquiring
+
+1017	 Apple	 NeXT	acquired
+
+1018	Microsoft	 LinkedIn	acquired
+
+1019	Microsoft	Revolution Analytics	 purchase
+
+1020	 Microsoft	GitHub	 purchase
+
+1021	 Microsoft	Skype Technologies	 purchase
+
+1022	 Microsoft	 QDOS	 purchase
+
+1023	Bolt (website)	 InterMedia Inc. company	 purchase
+
+1024	 Apple	Dialog Semiconductor	 purchase
+
+1025	Hewlett-Packard	 Autonomy	 purchase
+
+1026	Hubert Burda Media	 XING	 purchase
+
+1027	Time Inc.	Myspace	 purchase
+
+1028	Meredith Corporation	Time Inc	purchase
+
+1030	Telefónica Germany	 E-Plus	compete
+
+1031	 E-Plus	Telefónica Germany	compete
+
+1032	Telefónica Germany	Telekom Deutschland 	compete
+
+1033	Telekom Deutschland 	Telefónica Germany	compete
+
+1034	Telefónica Germany	 Vodafone	compete
+
+1035	 Vodafone	Telefónica Germany	compete
+
+1036	Vero (app)	 Facebook	compete
+
+1037	 Facebook	Vero (app)	compete
+
+1038	Vero (app)	 Instagram	compete
+
+1039	 Instagram	Vero (app)	compete
+
+1040	Viadeo	 LinkedIn	compete
+
+1041	 LinkedIn	Viadeo	compete
+
+1042	Diaspora (social network)	 Facebook	compete
+
+1043	 Facebook	Diaspora (social network)	compete
+
+1044	Bungie	 Microsoft	compete
+
+1045	 Microsoft	Bungie	compete
+
+1046	Xamarin	 Android	compete
+
+1047	 Android	Xamarin	compete
+
+1048	GitHub	 Bitbucket	compete
+
+1049	 Bitbucket	GitHub	compete
+
+1050	GitHub	 SourceForge	compete
+
+1051	 SourceForge	GitHub	compete
+
+1052	Outlook.com	 webmail	compete
+
+1053	 webmail	Outlook.com	compete
+
+1054	OneDrive	 Google Drive	compete
+
+1055	 Google Drive	OneDrive	compete
+
+1056	MSN	 Yahoo	compete
+
+1057	 Yahoo	MSN	compete
+
+1058	MSN	 Excite	compete
+
+1059	 Excite	MSN	compete
+
+1060	MSN	 Go Network	compete
+
+1061	 Go Network	MSN	compete
+
+1062	Microsoft Surface	 iPad	compete
+
+1063	 iPad	Microsoft Surface	compete
+
+1064	 Intel	 AMD	compete
+
+1065	 AMD	 Intel	compete
+
+1066	 Intel	 ARM	compete
+
+1067	 ARM	 Intel	compete
+
+1068	Microsoft Surface	 MacBook	compete
+
+1069	 MacBook	Microsoft Surface	compete
+
+1070	XMPP	 IRC	compete
+
+1071	 IRC	XMPP	compete
+
+1072	Orkut	 Myspace	compete
+
+1073	 Myspace	Orkut	compete
+
+1074	Orkut	 Facebook	compete
+
+1075	 Facebook	Orkut	compete
+
+1076	Jaiku	 Twitter	compete
+
+1077	 Twitter	Jaiku	compete
+
+1078	Google+	 Facebook	compete
+
+1079	 Facebook	Google+	compete
+
+1080	 Google	 Facebook	compete
+
+1081	 Facebook	 Google	compete
+
+1082	ResearchGate	 Academia.edu	compete
+
+1083	 Academia.edu	ResearchGate	compete
+
+1084	ResearchGate	 Google	compete
+
+1085	 Google	ResearchGate	compete
+
+1086	ResearchGate	 Scholar	compete
+
+1087	 Scholar	ResearchGate	compete
+
+1088	ResearchGate	 Mendeley	compete
+
+1089	 Mendeley	ResearchGate	compete
+
+1090	Alphabet Inc.	 Apple	compete
+
+1091	 Apple	Alphabet Inc.	compete
+
+1092	 Virgin Atlantic	 British Airways	compete
+
+1093	 British Airways	 Virgin Atlantic	compete
+
+1094	Sina Weibo	 Tencent	compete
+
+1095	 Tencent	Sina Weibo	compete
+
+1096	Sina Weibo	 Weibo	compete
+
+1097	 Weibo	Sina Weibo	compete
+
+1098	Sina Weibo	 Baidu	compete
+
+1099	 Baidu	Sina Weibo	compete
+
+1100	Sina Weibo	 WeChat	compete
+
+1101	 WeChat	Sina Weibo	compete
+
+1102	Path (social network)	 Facebook	compete
+
+1103	 Facebook	Path (social network)	compete
+
+1104	 Facebook	 MessageMe	compete
+
+1105	 MessageMe	 Facebook	compete
+
+1106	 Facebook	 Voxer	compete
+
+1107	 Voxer	 Facebook	compete
+
+1108	OpenOffice.org	 Microsoft Office	compete
+
+1109	 Microsoft Office	OpenOffice.org	compete
+
+1110	OpenOffice.org	 Microsoft	compete
+
+1111	 Microsoft	OpenOffice.org	compete
+
+1112	Instagram	 Snapchat—which	compete
+
+1113	 Snapchat—which	Instagram	compete
+
+1114	Ello (social network)	 Facebook	compete
+
+1115	 Facebook	Ello (social network)	compete
+
+1116	Gab (social network)	 Breitbart News	compete
+
+1117	 Breitbart News	Gab (social network)	compete
+
+1118	Cyworld	 Freechal	compete
+
+1119	 Freechal	Cyworld	compete
+
+1120	Cyworld	 StudiVZ	compete
+
+1121	 StudiVZ	Cyworld	compete
+
+1122	Cyworld	 Skyrock	compete
+
+1123	 Skyrock	Cyworld	compete
+
+1124	Drägerwerk	 Sensidyne LP	compete
+
+1125	 Sensidyne LP	Drägerwerk	compete
+
+1126	Webex	 Raindance Communications Inc.	compete
+
+1127	 Raindance Communications Inc.	Webex	compete
+
+1128	Digg	 Facebook	compete
+
+1129	 Facebook	Digg	compete
+
+1130	CNET	 IGN	compete
+
+1131	 IGN	CNET	compete
+
+1132	CNET	 GameSpot	compete
+
+1133	 GameSpot	CNET	compete
+
+1134	CNBC	 New York Times	compete
+
+1135	 New York Times	CNBC	compete
+
+1137	SlideShare	 WebEx	compete
+
+1138	 WebEx	SlideShare	compete
+
+1139	Mixer (service)	 Twitch	compete
+
+1140	 Twitch	Mixer (service)	compete
+
+1141	Vine (service)	 Instagram	compete
+
+1142	 Instagram	Vine (service)	compete
+
+1143	Vine (service)	 Mobli.By	compete
+
+1144	 Mobli.By	Vine (service)	compete
+
+1145	Pownce	 Twitter	compete
+
+1146	 Twitter	Pownce	compete
+
+1147	Google Buzz	 Twitter	compete
+
+1148	 Twitter	Google Buzz	compete
+
+1149	Google Buzz	 Facebook	compete
+
+1150	 Facebook	Google Buzz	compete
+
+1151	Pinterest	 Tumblr	compete
+
+1152	 Tumblr	Pinterest	compete
+
+1153	Adobe Flash	 Flare	compete
+
+1154	 Flare	Adobe Flash	compete
+
+1155	 Microsoft	 Apple	compete
+
+1156	 Apple	 Microsoft	compete
+
+1157	 Microsoft	 Salesforce	compete
+
+1158	 Salesforce	 Microsoft	compete
+
+1159	 Microsoft	 IBM	compete
+
+1160	 IBM	 Microsoft	compete
+
+1161	 Microsoft	 Dropbox	compete
+
+1162	 Dropbox	 Microsoft	compete
+
+1164	LinkedIn	hiQ	in_litigation
+
+1165	hiQ	LinkedIn	in_litigation
+
+1166	 VGTRK	VK (service)	in_litigation
+
+1167	VK (service)	 VGTRK	in_litigation
+
+1168	Lucent	 Dell	in_litigation
+
+1169	 Dell	Lucent	in_litigation
+
+1170	Microsoft litigation	Lucent	in_litigation
+
+1171	Lucent	Microsoft litigation	in_litigation
+
+1172	Alphabet Inc.	 Uber	in_litigation
+
+1173	 Uber	Alphabet Inc.	in_litigation
+
+1174	Deepak Chopra	 Robert Sapolsky	in_litigation
+
+1175	 Robert Sapolsky	Deepak Chopra	in_litigation
+
+1176	Facebook	 StudiVZ	in_litigation
+
+1177	 StudiVZ	Facebook	in_litigation
+
+1178	Scribd	 Disability Rights National Federation Blind	in_litigation
+
+1179	 Disability Rights National Federation Blind	Scribd	in_litigation
+
+1180	 WebEx	 Raindance	in_litigation
+
+1181	 Raindance	 WebEx	in_litigation
+
+1182	 Groupon	 IBM	in_litigation
+
+1183	 IBM	 Groupon	in_litigation
+
+1184	Kleiner Perkins	 Ellen Pao	in_litigation
+
+1185	 Ellen Pao	Kleiner Perkins	in_litigation
+
+1186	CNET	 Snap Technologies	in_litigation
+
+1187	 Snap Technologies	CNET	in_litigation
+
+1188	CNET	 Alki David	in_litigation
+
+1189	 Alki David	CNET	in_litigation
+
+1190	PayPal	 Electronic Funds Act	in_litigation
+
+1191	 Electronic Funds Act	PayPal	in_litigation
+
+1192	PayPal	 Bank One Corporation	in_litigation
+
+1193	 Bank One Corporation	PayPal	in_litigation
+
+1196	 Perkins	 LinkedIn	in_litigation
+
+1197	 LinkedIn	 Perkins	in_litigation
+
+1198	Wirecard	 Financial Times	in_litigation
+
+1199	 Financial Times	Wirecard	in_litigation
+
+1200	EchoStar	 Microsoft	in_litigation
+
+1201	 Microsoft	EchoStar	in_litigation
+
+1202	 Apple	 Microsoft	in_litigation
+
+1203	 Microsoft	 Apple	in_litigation
+
+1204	 Apple	 Hewlett-Packard	in_litigation
+
+1205	 Hewlett-Packard	 Apple	in_litigation
+
+1206	Skype Technologies	 Streamcast	in_litigation
+
+1207	 Streamcast	Skype Technologies	in_litigation
+
+1208	 BSkyB	Microsoft	in_litigation
+
+1209	Microsoft	 BSkyB	in_litigation
+
+1210	Surfbook	 Facebook	in_litigation
+
+1211	 Facebook	Surfbook	in_litigation
+
+1212	 Equal Employment Opportunity Commission	Bloomberg L.P.	in_litigation
+
+1213	Bloomberg L.P.	 Equal Employment Opportunity Commission	in_litigation
+
+1214	Edward Snowden	 U.S. Department Justice	in_litigation
+
+1215	 U.S. Department Justice	Edward Snowden	in_litigation
+
+1216	 Eva Hibnick	 Google	in_litigation
+
+1217	 Google	 Eva Hibnick	in_litigation
+
+1218	Friendster	Napster	in_litigation
+
+1219	Napster	Friendster	in_litigation
+
+1220	 Waymo	 Uber	in_litigation
+
+1221	 Uber	 Waymo	in_litigation
+
+1222	Tagged	 Miriam Slater	in_litigation
+
+1223	 Miriam Slater	Tagged	in_litigation
+
+1224	Tagged	 Sara Golden	in_litigation
+
+1225	 Sara Golden	Tagged	in_litigation
+
+1226	 Google	 Oracle	in_litigation
+
+1227	 Oracle	 Google	in_litigation
+
+1228	 Oracle	Hewlett-Packard	in_litigation
+
+1229	Hewlett-Packard	 Oracle	in_litigation
+
+1230	 PayPal	 Israel	in_litigation
+
+1231	 Israel	 PayPal	in_litigation
+
+1232	 Stamps.com	 PayPal	in_litigation
+
+1233	 PayPal	 Stamps.com	in_litigation
+
+1234	 Stamps.com	 eBay	in_litigation
+
+1235	 eBay	 Stamps.com	in_litigation
+
+1236	Katie Szpyrka	 LinkedIn	in_litigation
+
+1237	 LinkedIn	Katie Szpyrka	in_litigation
+
+1238	 Suzanne Shell	Wayback Machine	in_litigation
+
+1239	Wayback Machine	 Suzanne Shell	in_litigation
+
+1240	 Elise Clougherty	 Joe Lonsdale	in_litigation
+
+1241	 Joe Lonsdale	 Elise Clougherty	in_litigation
+
+1242	Alexa Internet	 Hornbaker	in_litigation
+
+1243	 Hornbaker	Alexa Internet	in_litigation
+
+1244	XING	 LinkedIn	compete
+
+1245	 LinkedIn	XING	compete
+
+1246	LinkedIn	 Mspoke	acquired
+
+1247	SUSS MicroTec	 Image Technology	acquired
+
+1248	Viadeo	ApnaCircle	acquired
+
+1249	Viadeo	 unyk.com	acquired
+
+1250	Viadeo	 tianji.com	acquired
+
+1251	Migme	 Sold.sg	acquired
+
+1252	 Microsoft	The Blue Ribbon SoundWorks	acquired
+
+1253	Xamarin	 Attachmate	acquired
+
+1254	 Microsoft	Sysinternals	acquired
+
+1255	 Microsoft	 ProClarity	acquired
+
+1256	 Microsoft	Danger Inc.	acquired
+
+1257	 Microsoft	Wunderlist	acquired
+
+1258	Xbox Game Studios	 FASA Interactive	acquired
+
+1259	 Microsoft	 Mojang	acquired
+
+1260	 Microsoft	 Obsidian Entertainment	acquired
+
+1261	Bloomberg L.P.	 WNEW	acquired
+
+1262	 Vodafone	Proximus Group	acquired
+
+1263	 GE	RCA	acquired
+
+1264	 GE	 NBC	acquired
+
+1265	 Virgin Hotels business	 Hard Rock Casino-Hotel	acquired
+
+1266	My World@Mail.Ru	 Odnoklassniki	acquired
+
+1267	Intuit	Docstoc	acquired
+
+1268	Qiagen	 SABiosciences	acquired
+
+1269	Evotec	 Cyprotex	acquired
+
+1270	 Atmel	 Microchip	acquired
+
+1271	Reuters	 Thomson Corporation	acquired
+
+1272	Hewlett-Packard	 Autonomy	acquired
+
+1273	Hewlett-Packard	 Compaq	acquired
+
+1274	Hewlett-Packard	 Agilent Technologies	acquired
+
+1275	 Google	Digg	acquired
+
+1276	Satya Nadella	 Mojang	acquired
+
+1277	Deloitte	 Ãœbermind	acquired
+
+1278	CNET	 Webshots	acquired
+
+1279	CNBC	 Dow News Corporation	acquired
+
+1280	 Apple Inc.	 Pixar	acquired
+
+1281	 Microsoft	 Nokia	acquired
+
+1282	 PayPal	 eBay	acquired
+
+1283	 Google Capital	Glassdoor	invested
+
+1284	 Sequoia Capital	2003	invested
+
+1285	 Tiger Global Management LLC	LinkedIn	invested
+
+1286	 Yitzchak Mirilashvili	VK (service)	invested
+
+1287	 Mikhael Mirilashvili	VK (service)	invested
+
+1288	 Lev Leviev	VK (service)	invested
+
+1289	 Pavel Durov	VK (service)	invested
+
+1290	 AGF Private Equity	Viadeo	invested
+
+1291	 Ventech	Viadeo	invested
+
+1292	 angel investors	Spring.me	invested
+
+1293	 SV Angel	Spring.me	invested
+
+1294	 Lowercase Capital	Spring.me	invested
+
+1295	 Kevin Rose	Spring.me	invested
+
+1296	 Dave Morin	Spring.me	invested
+
+1297	 angel investors	Eyegroove	invested
+
+1298	 Roger McNamee	Eyegroove	invested
+
+1299	 FIH Mobile	Migme	invested
+
+1300	 venture capital	identi.ca	invested
+
+1301	 Charles River Ventures	Xamarin	invested
+
+1302	 Floodgate Ignition Partners	Xamarin	invested
+
+1303	 Microsoft Corporation	MSN TV	invested
+
+1304	 Citicorp	MSN TV	invested
+
+1305	 Seagate Technology Inc.	MSN TV	invested
+
+1306	 Soros Capital L.P.	MSN TV	invested
+
+1307	 St. Paul Venture Capital	MSN TV	invested
+
+1308	 Times Mirror Company	MSN TV	invested
+
+1309	 Resolute.vc	Sunrise Calendar	invested
+
+1310	 NextView Ventures	Sunrise Calendar	invested
+
+1311	 Lerer Hippeau Ventures	Sunrise Calendar	invested
+
+1312	 SV Angel	Sunrise Calendar	invested
+
+1313	 Loïc Le Meur	Sunrise Calendar	invested
+
+1314	 Dave Morin	Sunrise Calendar	invested
+
+1315	 Trinity Ventures	MileIQ	invested
+
+1316	 Brian Wiegand	Jellyfish.com	invested
+
+1317	 Mark McGuire	Jellyfish.com	invested
+
+1318	 Kegonsa Capital Partners	Jellyfish.com	invested
+
+1319	 Andreessen Horowitz	GitHub	invested
+
+1320	 Silver Lake	Skype Technologies	invested
+
+1321	 Arrington investments	TechCrunch	invested
+
+1322	 VantagePoint Venture	Multiply (website)	invested
+
+1323	 Point Judith Capital	Multiply (website)	invested
+
+1324	 Transcosmos investors	Multiply (website)	invested
+
+1325	 Leonardo DiCaprio	Mobli	invested
+
+1326	 Kleiner Perkins Caufield Byers	Friendster	invested
+
+1327	 Benchmark Capital investors	Friendster	invested
+
+1328	 Benchmark Capital	FriendFeed	invested
+
+1329	 Charles River Ventures	Yammer	invested
+
+1330	 Founders Fund	Yammer	invested
+
+1331	 Emergence Capital Partners	Yammer	invested
+
+1332	 Goldcrest Investments	Yammer	invested
+
+1333	 Ron Conway	Yammer	invested
+
+1334	 angel investor	Yammer	invested
+
+1335	 Bill Gates	ResearchGate	invested
+
+1336	 Goldman Sachs	ResearchGate	invested
+
+1337	 Benchmark Capital	ResearchGate	invested
+
+1338	 Wellcome Trust	ResearchGate	invested
+
+1339	 Accel Partners	BranchOut	invested
+
+1340	 Floodgate	BranchOut	invested
+
+1341	 Norwest Venture Partners	BranchOut	invested
+
+1342	 Napster	BranchOut	invested
+
+1343	 Facebook	BranchOut	invested
+
+1344	 WordPress	BranchOut	invested
+
+1345	 Google	BranchOut	invested
+
+1346	 Spark Ventures	Academia.edu	invested
+
+1347	 angel investors	Academia.edu	invested
+
+1348	 Mark Shuttleworth	Academia.edu	invested
+
+1349	 Thomas Lehrman	Academia.edu	invested
+
+1350	 Rupert Pennant-Rea	Academia.edu	invested
+
+1351	 Hogeg	Yo (app)	invested
+
+1352	 WWE	Tout (company)	invested
+
+1353	 angel investor	Tagged	invested
+
+1354	 Mayfield Fund	Tagged	invested
+
+1355	 Georg von Holtzbrinck Publishing Group	StudiVZ	invested
+
+1356	 Samwer brothers	StudiVZ	invested
+
+1357	 Archant Caffè	Streetlife (website)	invested
+
+1358	 Paul Ettinger	Streetlife (website)	invested
+
+1359	 Steve Pankhurst	Streetlife (website)	invested
+
+1360	 Jack Abraham	Pinterest	invested
+
+1361	 Michael Birch	Pinterest	invested
+
+1362	 Scott Belsky	Pinterest	invested
+
+1363	 Brian Cohen	Pinterest	invested
+
+1364	 Shana Fisher	Pinterest	invested
+
+1365	 Ron Conway	Pinterest	invested
+
+1366	 FirstMark Capital	Pinterest	invested
+
+1367	 Kevin Hartz	Pinterest	invested
+
+1368	 Jeremy Stoppelman	Pinterest	invested
+
+1369	 Hank Vigil	Pinterest	invested
+
+1370	 Fritz Lanman	Pinterest	invested
+
+1371	 Rakuten	Pinterest	invested
+
+1372	 Andreessen Horowitz	Pinterest	invested
+
+1373	 Bessemer Venture Partners	Pinterest	invested
+
+1374	 Jeremy Stoppelman	Pinterest	invested
+
+1375	 Charles River Ventures	Scribd	invested
+
+1376	 Redpoint Ventures	Scribd	invested
+
+1377	 Kinsey Hills Group	Scribd	invested
+
+1378	 Appelgren	Mentimeter	invested
+
+1379	 Scott Walchek	Docstoc	invested
+
+1380	 Brett Brewer	Docstoc	invested
+
+1381	 Matt Coffin	Docstoc	invested
+
+1382	 Robin Richards	Docstoc	invested
+
+1383	 Crosscut Ventures	Docstoc	invested
+
+1384	 FreshTracks Capital	Ello (social network)	invested
+
+1385	 Accel Partners	 Lynda.com	invested
+
+1386	 Spectrum Equity	 Lynda.com	invested
+
+1387	 Meritech Capital Partners	 Lynda.com	invested
+
+1388	 Highland Capital Partners	Digg	invested
+
+1389	 Amazon.com	Kleiner Perkins	invested
+
+1390	 Googleplex	CapitalG	invested
+
+1391	 TPG Capital	 lynda.com	invested
+
+1392	 Kleiner Perkins Caufield Byers	Flipboard	invested
+
+1393	 Index Ventures	Flipboard	invested
+
+1394	 Rizvi Traverse Management	Flipboard	invested
+
+1395	 Insight Venture	Flipboard	invested
+
+1396	 JPMorgan	 Chase	invested
+
+1397	 angel investors	StartX	invested
+
+1398	Bessemer Venture Partners	 LinkedIn	invested
+
+1399	Bessemer Venture Partners	 Box Inc.	invested
+
+1400	Bessemer Venture Partners	 Shopify Inc	invested
+
+1401	 Sequoia Capital	Drawbridge (company)	invested
+
+1402	 Kleiner Perkins	Drawbridge (company)	invested
+
+1403	 Northgate Capital	Drawbridge (company)	invested
+
+1404	 Mitsui	Drawbridge (company)	invested
+
+1405	 AGF Private Equity	Viadeo	invested
+
+1406	 Ventech	Viadeo	invested
+
+1407	 Redpoint Ventures	Spring.me	invested
+
+1408	 Baseline Ventures	Spring.me	invested
+
+1409	 Matrix Partners	Vermeer Technologies	invested
+
+1410	 Sigma Partners	Vermeer Technologies	invested
+
+1411	 Atlas Venture.The	Vermeer Technologies	invested
+
+1412	 Atomico	Wunderlist	invested
+
+1413	 High-Tech Gründerfonds	Wunderlist	invested
+
+1414	 John Malloy	PayPal	invested
+
+1415	 BlueRun Ventures	PayPal	invested
+
+1401	LinkedIn	mspoke	acquired
+
+1402	LinkedIn	ChoiceVendor	acquired
+
+1403	LinkedIn	CardMunch	acquired
+
+1404	LinkedIn	Connected	acquired
+
+1405	LinkedIn	IndexTank	acquired
+
+1406	LinkedIn	Rapportive	acquired
+
+1407	LinkedIn	SlideShare	acquired
+
+1408	LinkedIn	Pulse	acquired
+
+1409	LinkedIn	Bright.com	acquired
+
+1410	LinkedIn	Newsle	acquired
+
+1411	LinkedIn	Bizo	acquired
+
+1412	LinkedIn	Careerify	acquired
+
+1413	LinkedIn	Refresh.io	acquired
+
+1414	LinkedIn	Lynda.com	acquired
+
+1415	LinkedIn	Fliptop	acquired
+
+1416	LinkedIn	Connectifier	acquired
+
+1417	LinkedIn	PointDrive	acquired
+
+1418	LinkedIn	Glint Inc.	acquired
+
+1419	LinkedIn	Drawbridge	acquired
+
+1440	Burda Digital	XING	invested
+
+1441	Oppenheimer Holdings	XING	invested
+
+1442	Wasatch Advisors	XING	invested
+
+1443	Union Investment (majority for DZ Bank )	XING	invested
+
+1444	DWS Investments (majority for Deutsche Bank )	XING	invested
+
+1445	Norges Bank	XING	invested
+
+1446	free float	XING	invested
+
+1447	Xbox Game Studios	343 Industries	acquired
+
+1448	Xbox Game Studios	Compulsion Games	acquired
+
+1449	Xbox Game Studios	Double Fine	acquired
+
+1450	Xbox Game Studios	Age of Empires studio	acquired
+
+1451	Xbox Game Studios	inXile Entertainment	acquired
+
+1452	Xbox Game Studios	Mojang	acquired
+
+1453	Xbox Game Studios	Ninja Theory	acquired
+
+1454	Xbox Game Studios	Obsidian Entertainment	acquired
+
+1455	Xbox Game Studios	Playground Games	acquired
+
+1456	Xbox Game Studios	Rare	acquired
+
+1457	Xbox Game Studios	The Coalition	acquired
+
+1458	Xbox Game Studios	The Initiative	acquired
+
+1459	Xbox Game Studios	Turn 10 Studios	acquired
+
+1460	Xbox Game Studios	Undead Labs	acquired
+
+1461	Xbox Game Studios	Xbox Game Studios Publishing	acquired
+
+1462	CapitalG	MultiPlan	invested
+
+1463	CapitalG	SurveyMonkey	invested
+
+1464	CapitalG	LendingClub	invested
+
+1465	CapitalG	Renaissance	invested
+
+1466	CapitalG	Auction.com	invested
+
+1467	CapitalG	Credit Karma	invested
+
+1468	CapitalG	Freshdesk	invested
+
+1469	CapitalG	MapR	invested
+
+1470	CapitalG	Thumbtack	invested
+
+1471	CapitalG	InnoLight	invested
+
+1472	CapitalG	Glassdoor	invested
+
+1473	CapitalG	CommonFloor	invested
+
+1474	CapitalG	ZenPayroll	invested
+
+1475	CapitalG	Freshdesk	invested
+
+1476	CapitalG	Duolingo	invested
+
+1477	CapitalG	Crowdstrike	invested
+
+1478	CapitalG	FanDuel	invested
+
+1479	CapitalG	Practo	invested
+
+1480	CapitalG	Oscar Health	invested
+
+1481	CapitalG	Zscaler	invested
+
+1482	CapitalG	Snap Inc.	invested
+
+1483	CapitalG	Pindrop	invested
+
+1484	CapitalG	CarDekho	invested
+
+1485	CapitalG	Care.com	invested
+
+1486	CapitalG	Airbnb	invested
+
+1487	CapitalG	Stripe	invested
+
+1488	CapitalG	Cuemath	invested
+
+1489	CapitalG	Looker	invested
+
+1490	CapitalG	Lyft	invested
+
+1491	CapitalG	UiPath	invested
+
+1492	CapitalG	Manbang	invested
+
+1493	CapitalG	Robinhood	invested
+
+1494	CapitalG	Aye Finance	invested
+
+1495	CapitalG	Convoy	invested
+
+1496	CapitalG	Applied	invested
+
+1497	CapitalG	Collibra	invested
+
+1498	CapitalG	CarDekho	invested
+
+1499	CapitalG	Cloudflare	invested
+
+1500	Expedia Group	Travelscape	acquired
+
+1501	Expedia Group	Vacationspot	acquired
+
+1502	Expedia Group	Classic Custom Vacations[note 1]	acquired
+
+1503	Expedia Group	Metropolitan Travel	acquired
+
+1504	Expedia Group	Newtrade Technologies	acquired
+
+1505	Expedia Group	Activity World	acquired
+
+1506	Expedia Group	Egencia	acquired
+
+1507	Expedia Group	Venere.com	acquired
+
+1508	Expedia Group	Mobiata	acquired
+
+1509	Expedia Group	VIA Travel	acquired
+
+1510	Expedia Group	trivago GmbH	acquired
+
+1511	Expedia Group	Wotif	acquired
+
+1512	Expedia Group	Travelocity	acquired
+
+1513	Expedia Group	Orbitz	acquired
+
+1514	Expedia Group	HomeAway	acquired
+
+1515	Expedia Group	Pillow	acquired
+
+1516	Expedia Group	ApartmentJet	acquired
+
+1517	Expedia Group	CanadaStays	acquired
+
+1518	Technology Crossover Ventures	"Expedia, Inc.[note 2]"	acquired
+
+1519	USA Networks	"Expedia, Inc.[note 3]"	acquired
+
+1520	USA Interactive	"Expedia, Inc.[note 4]"	acquired
+
+1521	IAC/InterActiveCorp	Expedia Inc.[note 5]	acquired
+
+1522	PayPal	Fraud Sciences	acquired
+
+1523	PayPal	Bill Me Later	acquired
+
+1524	PayPal	Where.com	acquired
+
+1525	PayPal	FigCard	acquired
+
+1526	PayPal	Zong	acquired
+
+1527	PayPal	card.io	acquired
+
+1528	PayPal	IronPearl	acquired
+
+1529	PayPal	Braintree	acquired
+
+1530	PayPal	Venmo	acquired
+
+1531	PayPal	StackMob	acquired
+
+1532	PayPal	Paydiant	acquired
+
+1533	PayPal	CyActive	acquired
+
+1534	PayPal	Xoom Corporation	acquired
+
+1535	PayPal	Modest Inc	acquired
+
+1536	PayPal	TIO Networks	acquired
+
+1537	PayPal	Swift Financial	acquired
+
+1538	PayPal	iZettle	acquired
+
+1539	PayPal	Hyperwallet	acquired
+
+1540	PayPal	Simility	acquired
+
+1541	PayPal	GoPay	acquired
+

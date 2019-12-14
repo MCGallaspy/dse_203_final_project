@@ -1,0 +1,135 @@
+company,std_attribute,value
+connectifier,naics,
+glassdoor,naics,561311
+indeed.com,naics,
+linkedin,naics,541511
+lynda.com,naics,518210
+slideshare,naics,
+ziprecruiter inc,naics,541810
+connectifier,headcount,5
+glassdoor,headcount,1417
+indeed.com,headcount,11192
+linkedin,headcount,20547
+lynda.com,headcount,631
+slideshare,headcount,
+ziprecruiter inc,headcount,1438
+connectifier,type of site,
+glassdoor,type of site,"job search engine, review site"
+indeed.com,type of site,job search engine
+linkedin,type of site,social networking service
+lynda.com,type of site,
+slideshare,type of site,slide hosting service
+ziprecruiter inc,type of site,job marketplace
+connectifier,available in,
+glassdoor,available in,multilingual
+indeed.com,available in,
+linkedin,available in,multilingual (24)
+lynda.com,available in,
+slideshare,available in,multilingual(5)
+ziprecruiter inc,available in,
+connectifier,founded,"california, united states (december 2011 (2011-12))"
+glassdoor,founded,Jun-07
+indeed.com,founded,november 2004 15 years ago (2004-11)
+linkedin,founded,"december 28, 2002 16 years ago (2002-12-28)mountain view, california, u.s."
+lynda.com,founded,1995 (1995)
+ziprecruiter inc,founded,2010
+connectifier,headquarters,"1000 w maude ave, sunnyvale, california, united states"
+glassdoor,headquarters,"mill valley, california, u.s."
+indeed.com,headquarters,"austin, texas, u.s.stamford, connecticut, u.s."
+linkedin,headquarters,"sunnyvale, california, u.s."
+lynda.com,headquarters,"carpinteria , united states of america"
+slideshare,headquarters,
+ziprecruiter inc,headquarters,"santa monica, california"
+glassdoor,founder,"robert hohman, rich barton, tim besse"
+indeed.com,founder,paul forster rony kahan
+linkedin,founder,reid hoffmanallen bluekonstantin guerickeeric lyjean-luc vaillant
+slideshare,founder,rashmi sinha
+ziprecruiter inc,founder,ian siegeljoe edmondsward pouloswill redd
+connectifier,key people,
+glassdoor,key people,"robert hohman, christian sutherland-wong, ryan aylward"
+indeed.com,key people,
+linkedin,key people,"shannon brayton (cmo) christina hall (cpo, svp) steve sordello (cfo, svp)"
+lynda.com,key people,"eric robison, ceo"
+slideshare,key people,
+ziprecruiter inc,key people,ian siegel (ceo)
+connectifier,industry,"internet, recruitment"
+glassdoor,industry,internet
+indeed.com,industry,
+linkedin,industry,internet
+lynda.com,industry,educational technology
+slideshare,industry,internet
+ziprecruiter inc,industry,employment websites
+connectifier,employees,
+glassdoor,employees,800
+indeed.com,employees,
+linkedin,employees,"15,000 (2019)"
+lynda.com,employees,
+slideshare,employees,
+ziprecruiter inc,employees,"10,001"
+connectifier,parent,linkedin
+glassdoor,parent,
+indeed.com,parent,
+linkedin,parent,microsoft corporation
+lynda.com,parent,linkedin
+slideshare,parent,linkedin
+ziprecruiter inc,parent,
+connectifier,website,www.connectifier.com
+glassdoor,website,www.glassdoor.com
+indeed.com,website,indeed.com
+linkedin,website,www.linkedin.com
+lynda.com,website,www.linkedin.com/learning/
+slideshare,website,www.slideshare.net
+ziprecruiter inc,website,ziprecruiter.com
+connectifier,alexa rank,
+glassdoor,alexa rank,397 (october 2017update)1
+indeed.com,alexa rank,167 (june 2018update)1
+linkedin,alexa rank,58 (november 2019update)1
+lynda.com,alexa rank,
+slideshare,alexa rank,165 (as of 19 march 2019update)1
+ziprecruiter inc,alexa rank,
+connectifier,registration,
+glassdoor,registration,optional
+indeed.com,registration,
+linkedin,registration,required
+lynda.com,registration,
+slideshare,registration,optional
+ziprecruiter inc,registration,
+linkedin,founded,"may 5, 2003 16 years ago (2003-05-05)"
+slideshare,founded,4 october 2006 13 years ago (2006-10-04)
+connectifier,current status,
+glassdoor,current status,active
+indeed.com,current status,active
+linkedin,current status,active
+lynda.com,current status,
+slideshare,current status,active
+ziprecruiter inc,current status,
+connectifier,pg_0,connectifier was founded in 2011 by john jersin and benjamin mccann.67
+glassdoor,pg_0,"in 2018, the company was acquired by the japanese firm, recruit holdings, for us1.2 billion.3 the company is headquartered in mill valley, california, with additional offices in cities around the world, including chicago, london and sao paulo."
+indeed.com,pg_0,"indeed is an american worldwide employment-related search engine for job listings launched in november 2004. it is a subsidiary of japans recruit co. ltd. and is co-headquartered in austin, texas and stamford, connecticut with additional offices around the world.2 as a single-topic search engine, it is also an example of vertical search. indeed is currently available in over 60 countries and 28 languages. in october 2010, indeed.com passed monster.com to become the highest-traffic job website in the united states.3"
+linkedin,pg_0,"linkedin (/ lINGkt'In/) is an american business and employment-oriented service that operates via websites and mobile apps. founded on december 28, 2002,4 and launched on may 5, 2003,5 it is mainly used for professional networking, including employers posting jobs and job seekers posting their cvs. as of 2015, most of the companys revenue came from selling access to information about its members to recruiters and sales professionals.6 since december 2016 it has been a wholly owned subsidiary of microsoft. as of june 2019, linkedin had 630 million registered members in 200 countries."
+lynda.com,pg_0,it was founded in 1995 by lynda weinman as lynda.com before being acquired by linkedin in 2015.2 microsoft acquired linkedin in december 2016.3
+slideshare,pg_0,"the website gets an estimated 80 million unique visitors a month,78 and has about 38 million registered users.9 slideshares biggest competitors include zoho.com, scribd.com, issuu and edocr. some of the notable users of slideshare include the white house, nasa, world economic forum, state of utah, oreilly media, hewlett packard and ibm."
+ziprecruiter inc,pg_0,"the company is headquartered in santa monica, california8 with offices in tempe, az9 london, uk and tel aviv, israel.10111213"
+connectifier,pg_1,"the company announced it secured series a financing of 6 million on june 16, 2015.89 in october of 2015, the company raised an additional 6 million in series b financing.110"
+glassdoor,pg_1,"the company was cofounded in 2007 by tim besse, robert hohman, who serves as the companys ceo, and expedia founder rich barton, who serves as the companys chairman.4 the idea came from a brainstorming session between the two of them, when hohman relayed the story of accidentally leaving the results of an employee survey on the printer while working at expediawhen the two began to think about what would have happened if the results had gotten out into the public."
+indeed.com,pg_1,"the site aggregates job listings from thousands of websites, including job boards, staffing firms, associations, and company career pages. they generate revenue by selling premium job posting and resume features to employers. and companies hiring4 in 2011, indeed began allowing job seekers to apply directly to jobs on indeeds site5 and offering resume posting and storage.6"
+linkedin,pg_1,linkedin allows members (both workers and employers) to create profiles and connections to each other in an online social network which may represent real-world professional relationships. members can invite anyone (whether an existing member or not) to become a connection.7 linkedin participated in the eus international safe harbor privacy principles.8
+lynda.com,pg_1,"linkedin learning was founded as lynda.com in 1995 in ojai, california, as online support for the books and classes of lynda weinman, a special effects animator and multimedia professor who founded a digital arts school with her husband, artist bruce heavin.4"
+slideshare,pg_1,"slideshare was officially launched on october 4, 2006. rashmi sinha, the ceo and co-founder of slideshare is responsible for partnerships and product strategy. she was named amongst the worlds top 10 women influencers in web 2.0 by fastcompany.10 jonathan boutelle 11 is the cto of slideshare and came up with the initial idea behind the website. he wrote the first version of the site."
+ziprecruiter inc,pg_1,"ziprecruiter was founded in 2010 by ian siegel,14 joe edmonds, ward poulos and will redd.1516"
+lynda.com,founder,lynda weinmanbruce heavin
+connectifier,services,
+glassdoor,services,online employment
+indeed.com,services,
+linkedin,services,
+lynda.com,services,online educationonline publishingonline training
+slideshare,services,
+ziprecruiter inc,services,artificial intelligence-based job search and job posting company
+connectifier,owner,
+glassdoor,owner,
+indeed.com,owner,recruit
+linkedin,owner,
+lynda.com,owner,microsoft
+slideshare,owner,microsoft corporation
+ziprecruiter inc,owner,
+connectifier,founder,john jersinbenjamin mccann

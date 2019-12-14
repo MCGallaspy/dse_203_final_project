@@ -1,0 +1,239 @@
+company,attribute,value,cluster id,confidence
+connectifier,naics,,0,0.99077946
+glassdoor,naics,561311,0,0.99077946
+indeed.com,naics,,0,0.99077946
+linkedin,naics,541511,0,0.99077946
+lynda.com,naics,518210,0,0.99077946
+slideshare,naics,,0,0.99077946
+ziprecruiter inc,naics,541810,0,0.99077946
+connectifier,headcount,5,1,0.99077946
+glassdoor,headcount,1417,1,0.99077946
+indeed.com,headcount,11192,1,0.99077946
+linkedin,headcount,20547,1,0.99077946
+lynda.com,headcount,631,1,0.99077946
+slideshare,headcount,,1,0.99077946
+ziprecruiter inc,headcount,1438,1,0.99077946
+connectifier,type of business,,2,0.99077946
+glassdoor,type of business,private,2,0.99077946
+indeed.com,type of business,,2,0.99077946
+linkedin,type of business,subsidiary,2,0.99077946
+lynda.com,type of business,,2,0.99077946
+slideshare,type of business,,2,0.99077946
+ziprecruiter inc,type of business,,2,0.99077946
+connectifier,type of site,,3,0.99077946
+glassdoor,type of site,"job search engine, review site",3,0.99077946
+indeed.com,type of site,job search engine,3,0.99077946
+linkedin,type of site,social networking service,3,0.99077946
+lynda.com,type of site,,3,0.99077946
+slideshare,type of site,slide hosting service,3,0.99077946
+ziprecruiter inc,type of site,job marketplace,3,0.99077946
+connectifier,available in,,4,0.99077946
+glassdoor,available in,multilingual,4,0.99077946
+indeed.com,available in,,4,0.99077946
+linkedin,available in,multilingual (24),4,0.99077946
+lynda.com,available in,,4,0.99077946
+slideshare,available in,multilingual(5),4,0.99077946
+ziprecruiter inc,available in,,4,0.99077946
+connectifier,founded,"california, united states (december 2011 (2011-12))",5,0.99077946
+glassdoor,founded,Jun-07,5,0.99077946
+indeed.com,founded,november 2004 15 years ago (2004-11),5,0.99077946
+linkedin,founded,"december 28, 2002 16 years ago (2002-12-28)mountain view, california, u.s.",5,0.99077946
+lynda.com,founded,1995 (1995),5,0.99077946
+slideshare,founded,,5,0.99077946
+ziprecruiter inc,founded,2010,5,0.99077946
+connectifier,headquarters,"1000 w maude ave, sunnyvale, california, united states",6,0.99077946
+glassdoor,headquarters,"mill valley, california, u.s.",6,0.99077946
+indeed.com,headquarters,"austin, texas, u.s.stamford, connecticut, u.s.",6,0.99077946
+linkedin,headquarters,"sunnyvale, california, u.s.",6,0.99077946
+lynda.com,headquarters,"carpinteria , united states of america",6,0.99077946
+slideshare,headquarters,,6,0.99077946
+ziprecruiter inc,headquarters,"santa monica, california",6,0.99077946
+connectifier,area served,,7,0.99077946
+glassdoor,area served,,7,0.99077946
+indeed.com,area served,,7,0.99077946
+linkedin,area served,worldwide,7,0.99077946
+lynda.com,area served,,7,0.99077946
+slideshare,area served,worldwide,7,0.99077946
+ziprecruiter inc,area served,,7,0.99077946
+connectifier,founder(s),,8,0.899761441
+glassdoor,founder(s),"robert hohman, rich barton, tim besse",8,0.899761441
+indeed.com,founder(s),paul forster rony kahan,8,0.899761441
+linkedin,founder(s),reid hoffmanallen bluekonstantin guerickeeric lyjean-luc vaillant,8,0.899761441
+lynda.com,founder(s),,8,0.899761441
+slideshare,founder(s),rashmi sinha,8,0.899761441
+ziprecruiter inc,founder(s),ian siegeljoe edmondsward pouloswill redd,8,0.899761441
+connectifier,ceo,,9,0.99077946
+glassdoor,ceo,,9,0.99077946
+indeed.com,ceo,,9,0.99077946
+linkedin,ceo,jeff weiner,9,0.99077946
+lynda.com,ceo,,9,0.99077946
+slideshare,ceo,,9,0.99077946
+ziprecruiter inc,ceo,,9,0.99077946
+connectifier,key people,,10,0.99077946
+glassdoor,key people,"robert hohman, christian sutherland-wong, ryan aylward",10,0.99077946
+indeed.com,key people,,10,0.99077946
+linkedin,key people,"shannon brayton (cmo) christina hall (cpo, svp) steve sordello (cfo, svp)",10,0.99077946
+lynda.com,key people,"eric robison, ceo",10,0.99077946
+slideshare,key people,,10,0.99077946
+ziprecruiter inc,key people,ian siegel (ceo),10,0.99077946
+connectifier,industry,"internet, recruitment",11,0.99077946
+glassdoor,industry,internet,11,0.99077946
+indeed.com,industry,,11,0.99077946
+linkedin,industry,internet,11,0.99077946
+lynda.com,industry,educational technology,11,0.99077946
+slideshare,industry,internet,11,0.99077946
+ziprecruiter inc,industry,employment websites,11,0.99077946
+connectifier,products,,12,0.99077946
+glassdoor,products,,12,0.99077946
+indeed.com,products,,12,0.99077946
+linkedin,products,slideshare,12,0.99077946
+lynda.com,products,,12,0.99077946
+slideshare,products,,12,0.99077946
+ziprecruiter inc,products,,12,0.99077946
+connectifier,employees,,13,0.99077946
+glassdoor,employees,800,13,0.99077946
+indeed.com,employees,,13,0.99077946
+linkedin,employees,"15,000 (2019)",13,0.99077946
+lynda.com,employees,,13,0.99077946
+slideshare,employees,,13,0.99077946
+ziprecruiter inc,employees,"10,001",13,0.99077946
+connectifier,parent,linkedin,14,0.99077946
+glassdoor,parent,,14,0.99077946
+indeed.com,parent,,14,0.99077946
+linkedin,parent,microsoft corporation,14,0.99077946
+lynda.com,parent,linkedin,14,0.99077946
+slideshare,parent,linkedin,14,0.99077946
+ziprecruiter inc,parent,,14,0.99077946
+connectifier,subsidiaries,,15,0.99077946
+glassdoor,subsidiaries,,15,0.99077946
+indeed.com,subsidiaries,,15,0.99077946
+linkedin,subsidiaries,learningconnectifier,15,0.99077946
+lynda.com,subsidiaries,,15,0.99077946
+slideshare,subsidiaries,,15,0.99077946
+ziprecruiter inc,subsidiaries,,15,0.99077946
+connectifier,website,www.connectifier.com,16,0.99077946
+glassdoor,website,www.glassdoor.com,16,0.99077946
+indeed.com,website,indeed.com,16,0.99077946
+linkedin,website,www.linkedin.com,16,0.99077946
+lynda.com,website,www.linkedin.com/learning/,16,0.99077946
+slideshare,website,www.slideshare.net,16,0.99077946
+ziprecruiter inc,website,ziprecruiter.com,16,0.99077946
+connectifier,alexa rank,,17,0.99077946
+glassdoor,alexa rank,397 (october 2017update)1,17,0.99077946
+indeed.com,alexa rank,167 (june 2018update)1,17,0.99077946
+linkedin,alexa rank,58 (november 2019update)1,17,0.99077946
+lynda.com,alexa rank,,17,0.99077946
+slideshare,alexa rank,165 (as of 19 march 2019update)1,17,0.99077946
+ziprecruiter inc,alexa rank,,17,0.99077946
+connectifier,advertising,,18,0.99077946
+glassdoor,advertising,,18,0.99077946
+indeed.com,advertising,,18,0.99077946
+linkedin,advertising,"google, adsense",18,0.99077946
+lynda.com,advertising,,18,0.99077946
+slideshare,advertising,,18,0.99077946
+ziprecruiter inc,advertising,,18,0.99077946
+connectifier,registration,,19,0.99077946
+glassdoor,registration,optional,19,0.99077946
+indeed.com,registration,,19,0.99077946
+linkedin,registration,required,19,0.99077946
+lynda.com,registration,,19,0.99077946
+slideshare,registration,optional,19,0.99077946
+ziprecruiter inc,registration,,19,0.99077946
+connectifier,users,,20,0.99077946
+glassdoor,users,,20,0.99077946
+indeed.com,users,,20,0.99077946
+linkedin,users,630 million members (june 2019),20,0.99077946
+lynda.com,users,,20,0.99077946
+slideshare,users,70 million,20,0.99077946
+ziprecruiter inc,users,,20,0.99077946
+connectifier,launched,,21,0.99077946
+glassdoor,launched,,21,0.99077946
+indeed.com,launched,,21,0.99077946
+linkedin,launched,"may 5, 2003 16 years ago (2003-05-05)",21,0.99077946
+lynda.com,launched,,21,0.99077946
+slideshare,launched,4 october 2006 13 years ago (2006-10-04),21,0.99077946
+ziprecruiter inc,launched,,21,0.99077946
+connectifier,current status,,22,0.99077946
+glassdoor,current status,active,22,0.99077946
+indeed.com,current status,active,22,0.99077946
+linkedin,current status,active,22,0.99077946
+lynda.com,current status,,22,0.99077946
+slideshare,current status,active,22,0.99077946
+ziprecruiter inc,current status,,22,0.99077946
+connectifier,pg_0,connectifier was founded in 2011 by john jersin and benjamin mccann.67,23,0.99077946
+glassdoor,pg_0,"in 2018, the company was acquired by the japanese firm, recruit holdings, for us1.2 billion.3 the company is headquartered in mill valley, california, with additional offices in cities around the world, including chicago, london and sao paulo.",23,0.99077946
+indeed.com,pg_0,"indeed is an american worldwide employment-related search engine for job listings launched in november 2004. it is a subsidiary of japans recruit co. ltd. and is co-headquartered in austin, texas and stamford, connecticut with additional offices around the world.2 as a single-topic search engine, it is also an example of vertical search. indeed is currently available in over 60 countries and 28 languages. in october 2010, indeed.com passed monster.com to become the highest-traffic job website in the united states.3",23,0.99077946
+linkedin,pg_0,"linkedin (/ lINGkt'In/) is an american business and employment-oriented service that operates via websites and mobile apps. founded on december 28, 2002,4 and launched on may 5, 2003,5 it is mainly used for professional networking, including employers posting jobs and job seekers posting their cvs. as of 2015, most of the companys revenue came from selling access to information about its members to recruiters and sales professionals.6 since december 2016 it has been a wholly owned subsidiary of microsoft. as of june 2019, linkedin had 630 million registered members in 200 countries.",23,0.99077946
+lynda.com,pg_0,it was founded in 1995 by lynda weinman as lynda.com before being acquired by linkedin in 2015.2 microsoft acquired linkedin in december 2016.3,23,0.99077946
+slideshare,pg_0,"the website gets an estimated 80 million unique visitors a month,78 and has about 38 million registered users.9 slideshares biggest competitors include zoho.com, scribd.com, issuu and edocr. some of the notable users of slideshare include the white house, nasa, world economic forum, state of utah, oreilly media, hewlett packard and ibm.",23,0.99077946
+ziprecruiter inc,pg_0,"the company is headquartered in santa monica, california8 with offices in tempe, az9 london, uk and tel aviv, israel.10111213",23,0.99077946
+connectifier,pg_1,"the company announced it secured series a financing of 6 million on june 16, 2015.89 in october of 2015, the company raised an additional 6 million in series b financing.110",24,0.99077946
+glassdoor,pg_1,"the company was cofounded in 2007 by tim besse, robert hohman, who serves as the companys ceo, and expedia founder rich barton, who serves as the companys chairman.4 the idea came from a brainstorming session between the two of them, when hohman relayed the story of accidentally leaving the results of an employee survey on the printer while working at expediawhen the two began to think about what would have happened if the results had gotten out into the public.",24,0.99077946
+indeed.com,pg_1,"the site aggregates job listings from thousands of websites, including job boards, staffing firms, associations, and company career pages. they generate revenue by selling premium job posting and resume features to employers. and companies hiring4 in 2011, indeed began allowing job seekers to apply directly to jobs on indeeds site5 and offering resume posting and storage.6",24,0.99077946
+linkedin,pg_1,linkedin allows members (both workers and employers) to create profiles and connections to each other in an online social network which may represent real-world professional relationships. members can invite anyone (whether an existing member or not) to become a connection.7 linkedin participated in the eus international safe harbor privacy principles.8,24,0.99077946
+lynda.com,pg_1,"linkedin learning was founded as lynda.com in 1995 in ojai, california, as online support for the books and classes of lynda weinman, a special effects animator and multimedia professor who founded a digital arts school with her husband, artist bruce heavin.4",24,0.99077946
+slideshare,pg_1,"slideshare was officially launched on october 4, 2006. rashmi sinha, the ceo and co-founder of slideshare is responsible for partnerships and product strategy. she was named amongst the worlds top 10 women influencers in web 2.0 by fastcompany.10 jonathan boutelle 11 is the cto of slideshare and came up with the initial idea behind the website. he wrote the first version of the site.",24,0.99077946
+ziprecruiter inc,pg_1,"ziprecruiter was founded in 2010 by ian siegel,14 joe edmonds, ward poulos and will redd.1516",24,0.99077946
+connectifier,formerly,,25,0.99077946
+glassdoor,formerly,,25,0.99077946
+indeed.com,formerly,,25,0.99077946
+linkedin,formerly,,25,0.99077946
+lynda.com,formerly,lynda.com (1995-2017),25,0.99077946
+slideshare,formerly,,25,0.99077946
+ziprecruiter inc,formerly,,25,0.99077946
+connectifier,type,subsidiary,26,0.99077946
+glassdoor,type,,26,0.99077946
+indeed.com,type,,26,0.99077946
+linkedin,type,,26,0.99077946
+lynda.com,type,subsidiary,26,0.99077946
+slideshare,type,,26,0.99077946
+ziprecruiter inc,type,,26,0.99077946
+connectifier,founders,,8,0.899761441
+glassdoor,founders,,8,0.899761441
+indeed.com,founders,,8,0.899761441
+linkedin,founders,,8,0.899761441
+lynda.com,founders,lynda weinmanbruce heavin,8,0.899761441
+slideshare,founders,,8,0.899761441
+ziprecruiter inc,founders,,8,0.899761441
+connectifier,services,,27,0.99077946
+glassdoor,services,online employment,27,0.99077946
+indeed.com,services,,27,0.99077946
+linkedin,services,,27,0.99077946
+lynda.com,services,online educationonline publishingonline training,27,0.99077946
+slideshare,services,,27,0.99077946
+ziprecruiter inc,services,artificial intelligence-based job search and job posting company,27,0.99077946
+connectifier,revenue,,28,0.99077946
+glassdoor,revenue,,28,0.99077946
+indeed.com,revenue,,28,0.99077946
+linkedin,revenue,,28,0.99077946
+lynda.com,revenue,us100 million (2013),28,0.99077946
+slideshare,revenue,,28,0.99077946
+ziprecruiter inc,revenue,,28,0.99077946
+connectifier,owner,,29,0.99077946
+glassdoor,owner,,29,0.99077946
+indeed.com,owner,recruit,29,0.99077946
+linkedin,owner,,29,0.99077946
+lynda.com,owner,microsoft,29,0.99077946
+slideshare,owner,microsoft corporation,29,0.99077946
+ziprecruiter inc,owner,,29,0.99077946
+connectifier,number of employees,,30,0.99077946
+glassdoor,number of employees,,30,0.99077946
+indeed.com,number of employees,,30,0.99077946
+linkedin,number of employees,,30,0.99077946
+lynda.com,number of employees,500 (2014),30,0.99077946
+slideshare,number of employees,,30,0.99077946
+ziprecruiter inc,number of employees,,30,0.99077946
+connectifier,commercial,,31,0.99077946
+glassdoor,commercial,yes,31,0.99077946
+indeed.com,commercial,yes,31,0.99077946
+linkedin,commercial,,31,0.99077946
+lynda.com,commercial,,31,0.99077946
+slideshare,commercial,,31,0.99077946
+ziprecruiter inc,commercial,,31,0.99077946
+connectifier,founder,john jersinbenjamin mccann,32,0.99077946
+glassdoor,founder,,32,0.99077946
+indeed.com,founder,,32,0.99077946
+linkedin,founder,,32,0.99077946
+lynda.com,founder,,32,0.99077946
+slideshare,founder,,32,0.99077946
+ziprecruiter inc,founder,,32,0.99077946
